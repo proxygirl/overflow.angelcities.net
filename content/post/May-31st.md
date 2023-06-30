@@ -10,8 +10,4 @@ images:
 
 Grocery List:
 
-Pot 
-Q tips 
-Dish soap
-Water 
-Cranberry 
+Pot, Q tips, dish soap, water, cranberry
