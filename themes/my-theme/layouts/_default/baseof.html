@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "head.html" . }}
+    <body class='page-{{ cond ( .IsHome ) "home" .Type }}'>
+        <div class='wrapper'>
+            <div class="banner">
+                <div class="logo">
+                    <div class="logo-image"></div>
+                </div>
+                <div class="filler"></div>
+            </div> 
+            <div class="wrapper-inner">
+                {{ partial "header.html" . }}
+                <div class="content">
+                    <main>
+                        <section class="feed">
+                            {{ block "main" .  }}{{ end }}
+                        </section>
+                    </main>
+                    <aside>
+                        <section class="sidebar">
+                            {{ block "aside" .  }}{{ end }}
+                        </section>
+                    </aside>
+                </div> 
+                {{ partial "footer.html" . }}
+            </div>
+        </div>
+    </body>
+</html>

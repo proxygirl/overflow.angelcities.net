@@ -1,0 +1,19 @@
+.rich-text {
+    @include flex(column, nowrap);
+    gap: 0.75em;
+
+    h1 { font-size: var(--text-heading-1); }
+    h2 { font-size: var(--text-heading-2); }
+    h3 { font-size: var(--text-heading-3);  }
+    ul {
+        list-style-type: '❀ ';
+        list-style-position: inside;
+        padding-inline-start: 0.75em;
+    }
+    
+    img {
+        border: 1px dotted;
+    }    
+
+}
+

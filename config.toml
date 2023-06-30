@@ -1,0 +1,5 @@
+baseURL = 'https://overflow-blog.netlify.app'
+languageCode = 'en-us'
+title = 'overflow'
+theme = 'my-theme'
+assetDir = 'static'

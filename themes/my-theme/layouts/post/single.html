@@ -1,0 +1,41 @@
+{{ define "aside" }}
+<article class="post-content">
+    {{ $post_type := .Site.GetPage (replace .Params.stack "content/" "") }}
+    <div class="post-meta">
+      <a class="post-type" style="background-color: {{ $post_type.Params.background }}; color: {{ $post_type.Params.color }};" href="{{ $post_type.RelPermalink }}">
+        {{ $post_type.Params.symbol }} {{ $post_type.Title | lower }}
+      </a>  
+      <span class="post-date">{{ .Date.Local.Format "1/02/2006"}}</span>
+    </div>
+    <h1 class="post-title">
+      {{ .Title }}
+    </h1>
+
+    <div class="post-description">
+        {{ .Content }}
+    </div>         
+</article>
+
+       
+{{ end }}
+
+{{ define "main" }}
+
+  <div class="post-media">
+    {{ range .Params.images }}
+      {{ $alt := .alt_text}}
+      {{ $title := .title}}
+      {{ $img := .image}}
+        {{ with (resources.Get $img) }}
+          <article class="post-image">
+            <a  href="{{ .RelPermalink }}">
+              {{ with .Resize "x500 webp" }}
+              <img src='{{ .RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />
+              {{ end }}
+            </a>
+          </article>
+        {{ end }}
+      {{ end }}
+  </div>
+
+{{ end }}

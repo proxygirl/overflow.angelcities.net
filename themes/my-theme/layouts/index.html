@@ -1,0 +1,49 @@
+{{ define "main" }}
+    {{ range (where .Site.RegularPages "Section" "post") }}
+      <article class="post">
+        <div class="post-media">
+          <div class="media-roll">
+            {{ with index .Params.images 0}}
+              {{ $alt := .alt_text}}
+              {{ $title := .title}}
+              {{ $img := .image}}
+              {{ with resources.Get $img }}
+                <a href='{{ .RelPermalink }}'>
+                  <img src='{{ ((resources.Get $img).Resize "x300 webp").RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />
+                </a>
+              {{ end }}
+            {{ end }}
+        </div>
+        </div>
+        <div class="post-content">
+          <div class="post-meta">
+            {{ $post_type := .Site.GetPage (replace .Params.stack "content/" "") }}
+            <a class="post-type" style="background-color: {{ $post_type.Params.background }}; color: {{ $post_type.Params.color }};" href="{{ $post_type.RelPermalink }}">
+              {{ $post_type.Params.symbol }} {{ $post_type.Title | lower }}
+            </a>  
+            <span class="post-date">{{ .Date.Local.Format "1/02/2006"}}</span>
+          </div>
+          
+          <h1 class="post-title">
+            <a href=" {{.RelPermalink}}">
+              {{ .Title }}
+            </a>
+          </h1>
+          <div class="post-description">
+            {{ .Content }}
+          </div>
+        </div>
+      </article>  
+    {{ end }}    
+{{ end }}
+
+{{ define "aside" }}
+  <article class="welcome">
+    <div class="welcome-inner">
+      <div class="rich-text">
+        {{ (.Site.GetPage "global/site").Params.welcome | markdownify }}
+      </div>
+    </div>
+  </article>
+  {{ partial "partials/currently-i-am" (.Site.GetPage "about").Params.currently}}
+{{ end }}

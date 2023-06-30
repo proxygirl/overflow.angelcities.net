@@ -1,0 +1,107 @@
+.page-stack {
+
+    .content { @include flex(row-reverse, wrap-reverse); }
+    main { flex: 3 300px; }    
+    aside { flex: 1 225px; }
+
+    .post {
+        @include flex(column, nowrap, start);
+        gap: 0.75em;       
+        background-image:  linear-gradient(var(--post-foreground) 1px, transparent 1px), linear-gradient(to right, var(--post-foreground) 1px, var(--post-background) 1px);
+        background-size: 20px 20px;
+        border: 1px dotted var(--post-border);
+
+        &-title {
+            font-size: var(--text-heading-1);
+        }
+
+        &-date {
+            background: var(--post-date-background);
+            border: 1px solid var(--post-date-border);
+            color: var(--post-date-color);
+            padding-inline: 0.5em;
+            padding-block: 0.25em;  
+            border-radius: 5px;     
+        }        
+
+        &-media {
+            @include flex(column);
+            background: none;
+            padding: 0;
+            border: none;
+            overflow: visible;            
+            gap: 1em;
+
+            .post-image {
+                @include flex(column);
+                border: 1px solid var(--post-media-border);
+
+                img {
+                    max-width: 100%;
+                }
+            }
+        }
+    }
+
+    .stack-title {
+        background-color: var(--stack-title-background);
+        color: var(--stack-title-color);
+        border-color: var(--stack-title-border);
+        box-shadow: var(--shadow-size) var(--stack-title-shadow);
+
+        h1 {
+            @include flex(row, nowrap, center, space-between);
+            font-size: var(--text-heading-1);
+        }
+        span {
+            font-weight: normal;
+        }
+    }
+
+    .stack-description {
+        background-color: var(--stack-description-background);
+        color: var(--stack-description-color);
+        border-color: var(--stack-description-border);
+        box-shadow: var(--shadow-size) var(--stack-description-shadow);
+    }
+
+    .stack-grid {
+
+        @include flex(row, nowrap, normal, start);
+        padding: 0;
+        border: none;
+        
+
+        &-inner {
+            display: grid;
+            grid-template-columns: repeat(8, 1fr);
+            grid-template-rows: repeat(4, 1fr);
+            gap: 0;
+            padding: 0;
+            border: 1px solid var(--stack-grid-border);
+            box-shadow: var(--shadow-size) var( --stack-grid-shadow);
+
+            a, div {
+                @include flex(row);
+                overflow: hidden;
+                aspect-ratio: 1/1;
+                border-left: 1px dotted var(--stack-grid-item-border);
+                border-top: 1px dotted var(--stack-grid-item-border);
+                background-color: var(--stack-grid-background);
+                width: auto;
+                height: auto;
+            }
+
+            img {
+                object-fit: cover;
+                flex: 1;
+            }
+            
+            .empty {
+                min-width: 100px;
+            }            
+        }
+
+    }
+
+}

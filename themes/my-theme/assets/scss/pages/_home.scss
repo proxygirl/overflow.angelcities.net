@@ -1,0 +1,41 @@
+@media (max-width: 798px) {
+    .page-home {
+        .content { @include flex(row-reverse, wrap-reverse); }
+    }
+}
+
+.page-home {
+    .post {
+        &-description p {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;   
+        }
+    }
+}
+.media-roll {
+    @include flex(row, nowrap, normal, normal, 1);
+    // animation: media-roll 10s infinite linear;
+    // animation-delay: 1s;
+}
+
+.media-roll a {
+    @include flex(row, nowrap, normal, normal, 1);
+}
+
+.media-roll img {
+    max-width: 100%;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+    flex: 1;
+}
+
+@keyframes media-roll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(calc(var(--roll-length) * -250px));
+    }
+}

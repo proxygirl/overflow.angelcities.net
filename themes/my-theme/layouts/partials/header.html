@@ -1,0 +1,41 @@
+<header>                  
+    <div class="navigation">
+        <nav class="menu">
+            {{ $current := .RelPermalink}}
+            <ul class="menu-inner">
+                <li class="menu-item">
+                    <a class='menu-link {{ cond (eq $current "/") "current" "" }}' href="/">home</a>
+                </li>  
+                {{ range (where .Site.RegularPages "Section" "stack") }}
+                <li class="menu-item">
+                    <a class='menu-link {{ cond (eq $current .RelPermalink) "current" "" }}' href="{{ .RelPermalink }}">{{.Title | lower }}</a>
+                </li>
+                {{ end }}
+                <li class="menu-item">
+                    <a class='menu-link {{ cond (eq $current "/about/") "current" "" }}' href="/about">about</a>
+                </li>
+            </ul>
+            <div class="motd">
+                <div class="motd-track">
+                    <div class="motd-content">
+                        <span>{{  (.Site.GetPage "global/site").Params.motd }}</span>
+                        <span>{{  (.Site.GetPage "global/site").Params.motd }}</span>
+                        <span>{{  (.Site.GetPage "global/site").Params.motd }}</span>
+                        <span>{{  (.Site.GetPage "global/site").Params.motd }}</span>
+                        <span>{{  (.Site.GetPage "global/site").Params.motd }}</span>
+                    </div>
+                </div>
+            </div>            
+        </nav>
+
+    </div>
+    <div class="badges">
+        <div class="badges-track">
+            <div class="badges-content">
+            {{ range  (.Site.GetPage "global/site").Params.badges }}
+                <img class="badges-item" src="{{ . }}" alt="88x31 badge"/>    
+            {{ end }}
+            </div>
+        </div>
+    </div>    
+</header>

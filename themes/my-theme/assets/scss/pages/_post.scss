@@ -1,0 +1,50 @@
+.page-post {
+
+    .content { @include flex(row-reverse, wrap-reverse); }
+
+    .post {
+        @include flex(column, nowrap, start);
+        gap: 0.75em;       
+
+        &-content {
+            background-image:  linear-gradient(var(--post-foreground) 1px, transparent 1px), linear-gradient(to right, var(--post-foreground) 1px, var(--post-background) 1px);
+            background-size: 20px 20px;
+            border: 1px dotted var(--post-border);
+            box-shadow: var(--shadow-size) var(--post-shadow);
+
+            > div {
+                text-align: left;
+                align-items: normal;
+            }
+        }
+
+        &-meta {
+            padding: 0;
+            background: none;
+            border: none;
+        }
+
+        &-media {
+            @include flex(column);
+            gap: 1em;
+            background: none;
+            padding: 0;
+            border: none;
+            overflow: visible;
+            
+        }
+
+        &-image {
+            background-color: var(--post-media-background);
+            border-color: var(--post-media-border);
+            box-shadow: var(--shadow-size) var(--post-media-shadow);
+
+            img {
+                border: 1px solid var(--post-media-border);
+                width: 100%;
+            }
+
+        }
+    }
+
+}

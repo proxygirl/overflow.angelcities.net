@@ -1,0 +1,16 @@
+<article class="currently">
+    <div class="currently-inner">
+        <div>
+            <h1>{{ .reading.symbol }} Currently Reading {{ .reading.symbol }}</h1>
+            <h2>{{ .reading.title }} by {{ .reading.author }}</h2>
+        </div>
+        <div>
+            <h1>{{ .listening.symbol }} Currently Listening {{ .listening.symbol }}</h1>
+            <h2><i>{{ .listening.title }}</i> - {{ .listening.author }}</h2>
+        </div>  
+        <div>
+            <h1>{{ .watching.symbol }} Currently Watching {{ .watching.symbol }}</h1>
+            <h2><a href="{{ .watching.link }}">{{ .watching.title }}</a></h2>
+        </div>            
+    </div>       
+</article>

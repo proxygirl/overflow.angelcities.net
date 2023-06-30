@@ -1,0 +1,173 @@
+@import "abstracts/variables";
+@import "abstracts/mixins";
+@import "base/typography";
+@import "base/reset";
+@import "components/post";
+@import "components/rich-text";
+@import "layout/header";
+
+@import "pages/home";
+@import "pages/page";
+@import "pages/stack";
+@import "pages/post";
+
+html {
+    @include flex(column, nowrap, center);
+    background-image: var(--background-image);
+    background-color: var(--background-color);
+    background-size: var(--background-size);
+    scroll-behavior: smooth;
+}
+
+body {
+    @include flex(column);
+    min-height: 100vh;
+    padding-block: 2em;
+}
+
+.wrapper {
+    @include flex(column);
+    gap: 1em;
+    max-width: 968px;
+
+    &-inner {
+        @include flex(column);
+        gap: 1em;
+        padding: 1.5em;
+        background-image: radial-gradient(var(--wrapper-foreground) 0.75px, var(--wrapper-background) 0.75px);
+        background-size: 15px 15px;
+        border: 1px dotted var(--wrapper-border);
+    }
+}
+
+.content {
+    @include flex(row, wrap);
+    gap: 1.5em;
+}
+
+main { flex: 3 450px; }
+
+aside { flex: 1 275px; }
+
+.feed, .sidebar {
+    @include flex(column);
+    gap: 1.5em;
+}
+
+.feed {
+
+    article {
+        padding: 1.15em;
+        border: 1px dotted;
+        background-color: white;
+        box-shadow: var(--shadow-size) var(--shadow-color);
+
+        a {
+            // color: black;
+        }
+        
+    }
+
+}
+
+.sidebar {
+
+    article {
+        @include flex(column);
+        padding: 1.15em;
+        border: 1px dotted;
+        background-color: white;
+        box-shadow: var(--shadow-size) var(--shadow-color);
+    }
+    
+    article > div {
+        padding-block: 1em;
+        padding-inline: 1.5em;   
+        border: 1px solid;
+        background-color: white;
+    }
+
+    .welcome {
+        background-image:  repeating-linear-gradient(0deg,  var(--welcome-foreground),  var(--welcome-foreground) 0.5px, var(--welcome-background) 0.5px,var(--welcome-background));
+        background-size: 10px 10px;
+        border-color: var(--welcome-border);
+        box-shadow: var(--shadow-size) var(--welcome-shadow);
+
+        &-inner {
+            align-items: start;
+            border-color: var(--welcome-border);
+            background-color: var(--welcome-inner);
+            color: var(--welcome-color)
+        }
+    }
+
+    .currently {
+        background: radial-gradient(circle, transparent 20%, var(--currently-background) 20%, var(--currently-background) 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, var(--currently-background) 20%, var(--currently-background) 80%, transparent 80%, transparent) 12.5px 12.5px, linear-gradient(var(--currently-foreground) 1px, transparent 1px) 0 -0.5px, linear-gradient(90deg, var(--currently-foreground) 1px, var(--currently-background) 1px) -0.5px 0;
+        background-size: 25px 25px, 25px 25px, 12.5px 12.5px, 12.5px 12.5px;  
+        border-color: var(--currently-border);
+        box-shadow: var(--shadow-size) var(--currently-shadow);
+        
+        h1 {
+            font-size: var(--text-heading-3);
+        }
+
+        h2 {
+            font-size: var(--text-paragraph);
+            font-weight: normal;
+        }        
+
+        &-inner {
+            @include flex(column, nowrap, center);
+            gap: 1em;
+            text-align: center;
+            border-color: var(--currently-border);
+            background-color: var(--currently-inner);
+            color: var(--currently-color);
+
+            div {
+                @include flex(column);
+                gap: 0.5em;
+            }
+
+        }
+    }
+
+    .avatar {
+        background-image:  repeating-linear-gradient(45deg, var(--avatar-foreground) 25%, transparent 25%, transparent 75%, var(--avatar-foreground) 75%, var(--avatar-foreground)), repeating-linear-gradient(45deg, var(--avatar-foreground) 25%, var(--avatar-background) 25%, var(--avatar-background) 75%, var(--avatar-foreground) 75%, var(--avatar-foreground));
+        background-position: 0 0, 9px 9px;
+        background-size: 18px 18px;    
+        border-color: var(--avatar-border);
+        box-shadow: var(--shadow-size) var(--avatar-shadow);
+
+        &-inner {
+            @include flex(row);
+            border-color: var(--avatar-border);
+            padding: 0;
+            aspect-ratio: 1/1;
+        }
+
+        img {
+            flex: 1;
+            max-width: 100%;
+            object-fit: cover;
+            aspect-ratio: 1/1;
+        }
+    }   
+    
+}
+
+footer {
+    @include flex(row, nowrap, normal, normal);
+    gap: 1em;
+    padding: .25em;
+    background-image: repeating-linear-gradient(45deg,var(--navigation-border-foreground) 0,var(--navigation-border-foreground) .9px,var(--navigation-border-background) 0,var(--navigation-border-background) 50%);
+    background-size: 9px 9px;
+}
+
+.footer-wrapper {
+    @include flex(row, wrap, normal, end, 1);
+    gap: 1em;
+    padding: .75em;
+    background-color: var(--navigation-background);
+    color: var(--menu-color);
+}

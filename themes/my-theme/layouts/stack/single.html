@@ -1,0 +1,64 @@
+{{ define "aside" }}
+    {{ $stack := .Title }}
+    <article class="stack-title" style="">
+        <h1>
+            {{ .Title }} 
+            <span>{{ .Params.symbol }}</span>
+        </h1>
+    </article>
+    {{ $count := 0 }}
+    <article class="stack-grid">
+        <div class="stack-grid-inner">
+        {{ range (where .Site.RegularPages "Section" "post") }}
+            {{ if in .Params.stack $stack }}
+                {{ $count = add $count 1 }}
+                <a href='#{{ replace (lower .Title) " " "-"}}'>
+                    {{ with resources.Get (index (.Params.images) 0).image }}
+                        <img src='{{ (.Resize "x500 webp").RelPermalink }}' />
+                    {{ end }}
+                </a>
+            {{ end }}
+        {{ end }}
+        {{ $leftover := sub 32 $count}}
+        {{ range $i :=  (seq $leftover) }}
+            <div>
+                <div class="empty"></div>
+            </div>
+        {{ end }}
+        </div>
+    </article>
+
+    <article class="stack-description rich-text">
+        {{ .Content }}
+    </article>            
+{{ end }}
+
+{{ define "main" }}
+    {{ $stack := .Title }}
+    {{ range (where .Site.RegularPages "Section" "post") }}
+        {{ if in .Params.stack $stack }}
+            <article class="post">
+                <span class="post-date">{{ .Date.Local.Format "1/02/2006"}}</span>
+                <h1 class="post-title" id='{{ replace (lower .Title) " " "-"}}'>
+                    <a href=" {{.RelPermalink}}">
+                        {{ .Title }}
+                    </a>
+                </h1>
+                <div class="post-media">
+                    {{ range .Params.images }}
+                    {{ $alt := .alt_text}}
+                    {{ $title := .title}}
+                    {{ $img := .image}}
+                    {{ with (resources.Get $img) }}
+                    <a class="post-image" href="{{ .RelPermalink }}">
+                            {{ with .Resize "x500 webp" }}
+                            <img src='{{ .RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />
+                            {{ end }}
+                    </a>
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </article>
+        {{ end }}
+    {{ end }}
+{{ end }}

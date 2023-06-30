@@ -1,0 +1,18 @@
+{{ define "main" }}
+    {{ range .Params.blocks }}
+        <article class="rich-text">
+            <h1>{{ .title }}</h1>
+            {{ .content | markdownify}}
+        </article>
+    {{ end }}
+{{ end }}
+{{ define "aside" }}
+    <article class="avatar">
+        <div class="avatar-inner">
+            {{ with resources.Get .Params.avatar }}
+                 <img src='{{ (.Resize "x500 webp").RelPermalink }}' alt="profile picture" />
+            {{ end }}
+        </div>
+    </article>
+    {{ partial "partials/currently-i-am" (.Site.GetPage "about").Params.currently}}
+{{ end }}

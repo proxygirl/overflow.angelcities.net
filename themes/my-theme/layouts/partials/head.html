@@ -1,0 +1,107 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>{{ .Site.Title }} | {{ cond .IsHome "home" ( .Title | lower ) }}</title>
+    <link rel="icon" type="image/x-icon" href='{{ (resources.Get "images/favicon.jpg").RelPermalink}}'>
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="stylesheet" href="/css/normalize.css">
+    {{ $style := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+    <link href="{{ $style.RelPermalink }}" rel="stylesheet">
+    {{ with (.Site.GetPage "global/theme").Params}}
+    <style>
+        :root {
+            
+            {{ with (resources.Get .background.background_image) }}
+            --background-image: url({{ .RelPermalink }});
+            {{ end }}
+
+            --background-color: {{ .background.background_color }};
+            --background-size: {{ .background.background_size }}px;
+
+            --wrapper-background: {{ .wrapper.wrapper_background }};
+            --wrapper-foreground: {{ .wrapper.wrapper_foreground }};
+            --wrapper-border: {{ .wrapper.wrapper_border }};
+
+            {{ with (resources.Get .logo.logo_image) }}
+            --logo-image: url({{ .RelPermalink }});
+            {{ end }}
+
+            --logo-background: {{ .logo.logo_background }};
+            --logo-shadow-color: {{ .logo.logo_shadow }};
+            --logo-border: {{ .logo.logo_border }};
+
+            --navigation-background: {{ .navigation.navigation_background }};
+            --navigation-border-background: {{ .navigation.navigation_border_background }};
+            --navigation-border-foreground: {{ .navigation.navigation_border_foreground }};
+
+            --menu-color: {{ .navigation.menu_color }};
+            
+            --motd-background: {{ .navigation.motd_background }};
+            --motd-border: {{ .navigation.motd_border }};
+            --motd-color: {{ .navigation.motd_color }};
+
+            --welcome-background: {{ .welcome.welcome_background }};
+            --welcome-foreground: {{ .welcome.welcome_foreground }};
+            --welcome-inner: {{ .welcome.welcome_inner }};
+            --welcome-border: {{ .welcome.welcome_border }};
+            --welcome-shadow: {{ .welcome.welcome_shadow }};
+            --welcome-color: {{ .welcome.welcome_color }};
+
+            --currently-background: {{ .currently.currently_background }};
+            --currently-foreground: {{ .currently.currently_foreground }};
+            --currently-inner: {{ .currently.currently_inner }};
+            --currently-border: {{ .currently.currently_border }};
+            --currently-shadow: {{ .currently.currently_shadow }};
+            --currently-color: {{ .currently.currently_color }};
+            
+            --avatar-background: {{ .avatar.avatar_background }};
+            --avatar-foreground: {{ .avatar.avatar_foreground }};
+            --avatar-border: {{ .avatar.avatar_border }};
+            --avatar-shadow: {{ .avatar.avatar_shadow }};   
+            
+            --post-background: {{ .post.post_background }};
+            --post-foreground: {{ .post.post_foreground }};
+            --post-border: {{ .post.post_border }};
+            --post-shadow: {{ .post.post_shadow }};
+
+            --post-title-background: {{ .post.post_title_background }};
+            --post-title-border: {{ .post.post_title_border }};
+            --post-title-color: {{ .post.post_title_color }};
+
+            --post-description-background: {{ .post.post_description_background }};
+            --post-description-border: {{ .post.post_description_border }};
+            --post-description-color: {{ .post.post_description_color }};
+
+            --post-type-border: {{ .post.post_type_border }};
+
+            --post-date-background: {{ .post.post_date_background }};
+            --post-date-border: {{ .post.post_date_border }};
+            --post-date-color: {{ .post.post_date_color }};
+            
+            --post-media-background: {{ .post.post_media_background }};
+            --post-media-border: {{ .post.post_media_border }};
+            --post-media-shadow: {{ .post.post_media_shadow }};
+
+            --stack-title-border: {{ .stack.stack_title_border }};
+            --stack-title-shadow: {{ .stack.stack_title_shadow }};
+
+            --stack-grid-background: {{ .stack.stack_grid_background }};
+            --stack-grid-border: {{ .stack.stack_grid_border }};
+            --stack-grid-item-border: {{ .stack.stack_grid_item_border }};
+            --stack-grid-shadow: {{ .stack.stack_grid_shadow }};
+
+            --stack-description-background: {{ .stack.stack_description_background }};
+            --stack-description-border: {{ .stack.stack_description_border }};
+            --stack-description-color: {{ .stack.stack_description_color }};
+            --stack-description-shadow: {{ .stack.stack_description_shadow }};
+
+            --page-block-background: {{ .block.block_background }};
+            --page-block-border: {{ .block.block_border }};
+            --page-block-color: {{ .block.block_color }};
+            --page-block-shadow: {{ .block.block_shadow }};
+            
+        }
+    </style>
+    {{ end }}
+</head>

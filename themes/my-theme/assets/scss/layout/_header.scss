@@ -1,0 +1,128 @@
+@media (max-width: 968px) {
+    .banner {
+        padding-inline: 1.5em;
+    }
+
+}
+
+.banner {
+    @include flex(row, wrap, normal, normal, 1);
+
+    .logo {
+        @include flex(column, nowrap, normal, normal, 1 400px);
+        background-color: var(--logo-background);
+        box-shadow: var(--shadow-size) var(--logo-shadow-color);  
+        border: 1px dotted var(--logo-border);   
+        
+        &-image {
+            background-image: var(--logo-image);
+            background-size: cover;
+            max-width: 100%; 
+            aspect-ratio: 481/232;
+        }
+    }
+
+    .filler {
+        
+        flex: 4 161px;
+    }
+    
+}
+
+
+header {
+    @include flex(column);
+    gap: 0.75em;
+
+    .navigation{
+        @include flex(row);
+        gap: 1em;
+        padding: 0.25em;
+        background-image: repeating-linear-gradient(45deg, var(--navigation-border-foreground) 0, var(--navigation-border-foreground) 0.9px, var(--navigation-border-background) 0, var(--navigation-border-background) 50%);
+        background-size: 9px 9px;
+
+        .menu {
+            @include flex(row, wrap, normal, space-between, 1);
+            gap: 1em;
+            padding: 0.75em; 
+            background-color: var(--navigation-background);
+    
+            &-inner {
+                @include flex(row, wrap, center, normal, 1 325px);
+                row-gap: 0.5em;
+            }
+    
+            &-item:not(:first-child)::before {
+                content: '/';
+                margin-inline: 0.5em;
+                color: var(--menu-color);
+            }
+    
+            &-link {
+                color: var(--menu-color);
+                text-decoration: none;
+            }
+
+            &-link.current {
+                text-decoration: underline;
+                font-weight: bold;
+            }            
+
+        }
+
+        .motd {
+            position: relative;
+            flex: 1 300px;
+            height: 20px;
+            padding: 0.3em;
+            overflow-x: hidden;
+            background-color: var(--motd-background);
+            border: 1px dotted var(--motd-border);
+            color: var(--motd-color);    
+
+            &-track {
+                position: absolute;
+                white-space: nowrap;
+                will-change: transform;
+                animation: marquee 20s linear infinite;
+            }
+            
+            &-content {
+                @include flex(row);
+            }
+            
+            &-content *::before {
+                content: '~';
+                margin-inline: 0.5em;
+            }            
+        }        
+
+    }    
+
+    .badges {
+        position: relative;
+        overflow-x: hidden;
+        height: 33px;
+        border: 1px dotted;
+
+        &-track {
+            position: absolute;
+            white-space: nowrap;
+        }
+
+        &-content {
+            @include flex(row);
+        }
+
+        &-item {
+            height: 31px;
+            width: 88px;
+            border: 1px dotted;            
+        }
+    }
+
+}
+@keyframes marquee {
+    from { transform: translateX(0);}
+    to { transform: translateX(-50%);}
+}

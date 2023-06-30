@@ -1,0 +1,112 @@
+:root {
+
+    // font sizes
+    --text-heading-1: 22px;
+    --text-heading-2: 20px;
+    --text-heading-3: 18px;
+    --text-paragraph: 16px;
+
+    --shadow-size: 5px 5px 0px 0px;
+    --shadow-color: black;
+
+    // wrapper
+    --wrapper-background: white;
+    --wrapper-foreground: black;
+    --wrapper-border: black;
+
+    // header 
+
+        // banner 
+        --logo-background: white;
+        --logo-shadow-color: black;
+        --logo-border: black;
+
+        // navigation
+        --navigation-background: black;
+        --navigation-border-background: white;
+        --navigation-border-foreground: black;
+
+        // menu 
+        --menu-color: white;
+        
+        // motd
+        --motd-background: white;
+        --motd-border: black;
+        --motd-color: black;
+
+    // sidebar 
+
+        // welcome
+        --welcome-background: white;
+        --welcome-foreground: black;
+        --welcome-inner: white;
+        --welcome-border: black;
+        --welcome-shadow: black;
+        --welcome-color: black;
+
+        // currently
+        --currently-background: black;
+        --currently-foreground: white;
+        --currently-inner: white;
+        --currently-border: white;
+        --currently-shadow: black;
+        --currently-color: black;
+        
+        // avatar
+        --avatar-background: white;
+        --avatar-foreground: black;
+        --avatar-border: black;
+        --avatar-shadow: black;   
+        
+    // post  
+    --post-background: white;
+    --post-foreground: #949494;
+    --post-border: black;
+    --post-shadow: black;
+
+    --post-title-background: white;
+    --post-title-border: black;
+    --post-title-color: black;
+
+    --post-description-background: white;
+    --post-description-border: black;
+    --post-description-color: black;
+
+    --post-type-background: white;
+    --post-type-border: black;
+    --post-type-color: black;
+
+    --post-date-background: black;
+    --post-date-border: black;
+    --post-date-color: white;
+    
+    --post-media-background: white;
+    --post-media-border: black;
+    --post-media-shadow: black;
+
+    // stack
+    --stack-title-background: white;
+    --stack-title-border: black;
+    --stack-title-color: black;
+    --stack-title-shadow: black;
+
+    --stack-grid-background: white;
+    --stack-grid-border: black;
+    --stack-grid-item-border: black;
+    --stack-grid-shadow: black;
+
+    --stack-description-background: white;
+    --stack-description-border: black;
+    --stack-description-color: black;
+    --stack-description-shadow: black;    
+
+    --stack-post-background: white;
+
+    // page
+    --page-block-background: white;
+    --page-block-border: black;
+    --page-block-color: black;
+    --page-block-shadow: black;
+
+    
+}

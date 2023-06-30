@@ -1,0 +1,69 @@
+.post {
+    @include flex(row, wrap, normal, normal, 1);
+    background-image:  linear-gradient(var(--post-foreground) 1px, transparent 1px), linear-gradient(to right, var(--post-foreground) 1px, var(--post-background) 1px);
+    background-size: 20px 20px;
+    border: 1px dotted var(--post-border);
+    box-shadow: var(--shadow-size) var(--post-shadow);
+    gap: 1em;
+
+    &-content {
+        @include flex(column, nowrap, normal, normal, 4 250px);
+        gap: 1em;    
+    }
+
+    &-title {
+        align-self: start;
+        background: var(--post-title-background);
+        border: 3px double var(--post-title-border);
+        padding-inline: 0.5em;
+        padding-block: 0.25em;
+        font-weight: bold;
+        font-size: var(--text-heading-2);
+
+        a {
+            color: var(--post-title-color);
+        }
+    }
+
+    &-description {
+        flex: 1;
+        background: var(--post-description-background);
+        border: 1px solid var(--post-description-border);
+        color: var(--post-description-color);
+        padding-inline: 0.75em;
+        padding-block: 0.5em;    
+        font-weight: 300;
+    }
+
+    &-meta {
+        @include flex(row, nowrap, normal, space-between);
+        font-weight: normal;
+    }
+    
+    &-type {
+        text-decoration: none;
+        background: var(--post-type-background);
+        border: 1px solid var(--post-type-border);
+        color: var(--post-type-color);
+        padding-block: 0.2em;
+        padding-inline: 0.4em;
+        border-radius: 5px;    
+    }
+    
+    &-date {
+        background: var(--post-date-background);
+        border: 1px solid var(--post-date-border);
+        color: var(--post-date-color);
+        padding-inline: 0.5em;
+        padding-block: 0.25em;  
+        border-radius: 5px;     
+    }    
+
+    &-media {
+        @include flex(row, nowrap, normal, normal, 1 200px);
+        background: var(--post-media-background);
+        border: 4px double var(--post-media-border);
+        overflow: hidden;
+    }
+
+}

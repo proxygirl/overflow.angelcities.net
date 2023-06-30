@@ -1,0 +1,24 @@
+{
+  "name": "overflow.angelcities.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proxygirl/overflow.angelcities.net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proxygirl/overflow.angelcities.net/issues"
+  },
+  "homepage": "https://github.com/proxygirl/overflow.angelcities.net#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.21",
+    "tinacms": "^1.5.12"
+  }
+}
