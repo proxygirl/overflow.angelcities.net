@@ -4,7 +4,7 @@ background:
   background_size: 850
   background_color: ''
 logo:
-  logo_image: ''
+  logo_image: /uploads/logos/coupon-logo-sm.png
   logo_background: '#FFFFFF'
   logo_border: '#000000'
   logo_shadow: '#000000'
@@ -74,6 +74,7 @@ block:
   block_color: '#000000'
   block_shadow: '#000000'
 ---
+
 
 
 
