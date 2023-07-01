@@ -145,8 +145,8 @@ blocks:
       [Cadence](https://instagram.com/cadencetatem?igshid=MzRlODBiNWFlZA==)
 
 
-      Embroidery and repurposing techniques
-      [https://wild-ohio-embroidery.weeblysite.com/?fbclid=PAAaZ4M6NQMhYor-lkwNmywvnaBN2-UQpeqfrF1cuzgj4bleEPfy2OQ35Vsvs](https://wild-ohio-embroidery.weeblysite.com/?fbclid=PAAaZ4M6NQMhYor-lkwNmywvnaBN2-UQpeqfrF1cuzgj4bleEPfy2OQ35Vsvs)
+      [Embroidery](https://wild-ohio-embroidery.weeblysite.com/?fbclid=PAAaZ4M6NQMhYor-lkwNmywvnaBN2-UQpeqfrF1cuzgj4bleEPfy2OQ35Vsvs)
+      and repurposing techniques 
 
 
       Photography that's just pretty:
@@ -155,6 +155,7 @@ blocks:
 
       More pretty photos: hilah site down
 ---
+
 
 
 
