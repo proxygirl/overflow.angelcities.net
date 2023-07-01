@@ -3,7 +3,7 @@ title: Layton Fanart
 date: 2022-05-16T07:00:00.000Z
 stack: content/stack/Embroidery.md
 images:
-  - image: /uploads/embroidery /IMG_20230609_143113218.jpg
+  - image: ''
     title: embroidery on white
     alt_text: an embroidery hoop depicting characters from the professor layton game
 ---
