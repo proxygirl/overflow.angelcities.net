@@ -14,4 +14,4 @@ images:
     alt_text: a bag covered in black doodles with many keychains and a patch
 ---
 
-Made as a gift for Hilah who showed me Cate Wurtz’s art for the first time– based on original art by Cate Wurtz (photographed sewn onto Hilah’s bag– which she made herself!)
+Made as a gift for Hilah who showed me [Cate Wurtz’s](https://lamezone.tumblr.com) art for the first time– based on original art by Cate Wurtz (photographed sewn onto Hilah’s bag– which she made herself!)
