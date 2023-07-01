@@ -95,45 +95,9 @@ blocks:
 
       * Girlfriends by Emily Zhou
   - title: Nice Places to Go--
-    content: >
-      ## Games:
-
-
-      Blendy, a peaceful but difficult web game made by hilah
-
-
-      [Dragon Quest](https://dragonquest.neocities.org/), not yet beaten
-
-
-      [Death Paradise](http://slimgiltsoul.com/practice/pages/dp1.html), calm
-      and nice to look at, made by Remy Boydell
-
-
-      ## Art:
-
-
-      Amazing knit work by [Katya
-      Budkovskaya](https://katyabudkovskaya.gumroad.com/)
-
-
-      [Athenaeum Comic Art
-      ](https://www.athenaeumcomicart.com/?fbclid=PAAaZ4BlWnLX1smDneoT4xDV4boJTHsk7p2kW_37uhA1-DdnXuAAq9PZgfkSs)(originals
-      from comic artists)
-
-
-      Awesome collections and 3D modeling from
-      [hilah](https://www.instagram.com/angel_cities/)
-
-
-      Sprites and other art I like from[ Lydia ](https://lyds.itch.io/)
-
-
-      Lovely characters and themes from [Keaton
-      ](https://www.keatonflowers.com/)
-
-
-      More 3D modeling: [Thrift3d](https://teia.art/thrift3d) collection
+    content: "## Games:\n\nBlendy, a peaceful but difficult web game made by hilah\n\n[Dragon Quest](https://dragonquest.neocities.org/), not yet beaten\n\n[Death Paradise](http://slimgiltsoul.com/practice/pages/dp1.html), calm and nice to look at, made by Remy Boydell\n\n## Art:\n\nArt, collecting, web design: [Olivia](https://olivia.media/?fbclid=PAAaaRhSqoCoppbt7O7QS3l8omH_KbR4aDnl6jTp72PQvsnxHocSDMtdw7mRM)\n\nReally cool knit things: [Katya\_](https://katyabudkovskaya.gumroad.com/)\n\n[Athenaeum Comic Art ](https://www.athenaeumcomicart.com/?fbclid=PAAaZ4BlWnLX1smDneoT4xDV4boJTHsk7p2kW_37uhA1-DdnXuAAq9PZgfkSs)(originals from comic artists)\n\nAwesome collections and 3D modeling: [hilah](https://www.instagram.com/angel_cities/)\n\nSprites and other art I like:[ Lydia](https://lyds.itch.io/)\n\nLovely characters and style: [Keaton](https://www.keatonflowers.com/)\n\nMore 3D modeling: [Thrift3d](https://teia.art/thrift3d) collection\n\nCollection inspiration: [https://www.shanasadeghiray.com/collection-project](https://www.shanasadeghiray.com/collection-project)\n\nSketches, and cool style in general\_\n\n[https://instagram.com/cadencetatem?igshid=MzRlODBiNWFlZA==](https://instagram.com/cadencetatem?igshid=MzRlODBiNWFlZA==)\n\nEmbroidery and repurposing techniques [https://wild-ohio-embroidery.weeblysite.com/?fbclid=PAAaZ4M6NQMhYor-lkwNmywvnaBN2-UQpeqfrF1cuzgj4bleEPfy2OQ35Vsvs](https://wild-ohio-embroidery.weeblysite.com/?fbclid=PAAaZ4M6NQMhYor-lkwNmywvnaBN2-UQpeqfrF1cuzgj4bleEPfy2OQ35Vsvs)\n\nPhotography that's just pretty: [https://theearlofbirds.com/?fbclid=PAAaZTIecFEhEM-FSo7Bpm38OAO57GWdNzQ2GokouQSu1HELIeu4xEYtzQ8nk](https://theearlofbirds.com/?fbclid=PAAaZTIecFEhEM-FSo7Bpm38OAO57GWdNzQ2GokouQSu1HELIeu4xEYtzQ8nk)\n\nMore pretty photos: hilah site down\n"
 ---
+
 
 
 
