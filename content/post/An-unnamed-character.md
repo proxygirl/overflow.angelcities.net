@@ -8,4 +8,4 @@ images:
     alt_text: 'an embroidery depicting a character with blue hair crying stars '
 ---
 
-Based on original art by Lydia (@lyds69 on Instagram) – Lydia always gets such a nice effect with color in their art, so I tried to capture a little of that
+Based on original art by [Lydia](https://lyds.itch.io/) – Lydia always gets such a nice effect with color in their art, so I tried to capture a little of that
