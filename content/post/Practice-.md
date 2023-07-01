@@ -3,7 +3,7 @@ title: 'Practice '
 date: 2019-05-17T07:00:00.000Z
 stack: content/stack/Embroidery.md
 images:
-  - image: /uploads/embroidery /IMG_20230609_144917869.jpg
+  - image: ''
     title: embroidery on checkers
     alt_text: two embroidered patches depicting a moon and a mouth
 ---
