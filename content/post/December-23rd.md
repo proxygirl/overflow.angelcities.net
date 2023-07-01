@@ -3,10 +3,10 @@ title: December 23rd
 date: 2021-12-23T08:00:00.000Z
 stack: content/stack/Photos-.md
 images:
-  - image: /uploads/digital collage/12_21.png
+  - image: /uploads/digital collage/12_21 (1).png
     title: digital collage
     alt_text: digital collage
-  - image: /uploads/digital collage/12_21 (1).png
+  - image: /uploads/digital collage/12_21.png
     title: digital collage
     alt_text: digital collage
 ---
