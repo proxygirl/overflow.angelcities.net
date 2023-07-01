@@ -1,6 +1,6 @@
 ---
 title: Photos
-symbol: ⎈
+symbol: '*.:｡'
 background: '#ADE7A2'
 ---
 
