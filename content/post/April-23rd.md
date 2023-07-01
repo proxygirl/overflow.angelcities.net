@@ -8,4 +8,4 @@ images:
     alt_text: digital collage
 ---
 
-gas station butter
+gas station dairy
