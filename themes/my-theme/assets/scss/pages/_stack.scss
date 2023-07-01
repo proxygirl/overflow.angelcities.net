@@ -26,6 +26,7 @@
 
         &-media {
             @include flex(column);
+            width: 100%;
             background: none;
             padding: 0;
             border: none;

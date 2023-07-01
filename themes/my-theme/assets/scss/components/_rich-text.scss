@@ -6,9 +6,10 @@
     h2 { font-size: var(--text-heading-2); }
     h3 { font-size: var(--text-heading-3);  }
     ul {
+        @include flex(column);
+        gap: 0.25em;
+        padding-inline-start:1em;        
         list-style-type: '❀ ';
-        list-style-position: inside;
-        padding-inline-start: 0.75em;
     }
     
     img {

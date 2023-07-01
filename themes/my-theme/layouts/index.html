@@ -30,7 +30,7 @@
             </a>
           </h1>
           <div class="post-description">
-            {{ .Content }}
+            {{ .Summary | truncate "100" }}
           </div>
         </div>
       </article>  
