@@ -3,13 +3,13 @@ title: 'Belts, from The Belts Show'
 date: 2022-02-25T08:00:00.000Z
 stack: content/stack/Embroidery.md
 images:
-  - image: /uploads/embroidery /IMG_20220209_175948096.jpg
+  - image: ''
     title: embroidery on magazine
     alt_text: an embroidered patch depicting a character with red hair named belts
-  - image: /uploads/embroidery /IMG_20230609_144537046.jpg
+  - image: ''
     title: belts wings
     alt_text: an embroidered patch depicting a character with red hair named belts
-  - image: /uploads/embroidery /IMG_20230609_144518916.jpg
+  - image: ''
     title: bag on checkers
     alt_text: a bag covered in black doodles with many keychains and a patch
 ---
