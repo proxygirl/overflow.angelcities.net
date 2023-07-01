@@ -16,7 +16,7 @@ currently:
     title: Chicken Hole Base - Cody's Lab
     link: 'https://youtube.com/playlist?list=PLKhDkilF5o6-Hfsnhn_HFxjJ0jz45D3oE'
     symbol: "\U0001F4FA"
-avatar: ''
+avatar: /uploads/photos/IMG_20230315_175107458.jpg
 blocks:
   - title: Welcome to my site–
     content: "this is where I post things I’ve made! I’m inspired by 2000s web and tech \U0001F469‍\U0001F4BB fantasy worldbuilding \U0001F3F0 and children’s book illustrations \U0001F9F8(at the moment). Maybe one day I’ll figure out a consistent style but for now enjoy my many collections.\n\n❤️ chloe.\n"
@@ -146,7 +146,7 @@ blocks:
 
 
       [Embroidery](https://wild-ohio-embroidery.weeblysite.com/?fbclid=PAAaZ4M6NQMhYor-lkwNmywvnaBN2-UQpeqfrF1cuzgj4bleEPfy2OQ35Vsvs)
-      and repurposing techniques 
+      and repurposing techniques
 
 
       [Photography](https://theearlofbirds.com/?fbclid=PAAaZTIecFEhEM-FSo7Bpm38OAO57GWdNzQ2GokouQSu1HELIeu4xEYtzQ8nk)
@@ -155,6 +155,7 @@ blocks:
 
       More pretty photos: hilah site down :(
 ---
+
 
 
 
