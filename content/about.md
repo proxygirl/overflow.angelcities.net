@@ -149,8 +149,8 @@ blocks:
       and repurposing techniques 
 
 
-      Photography that's just pretty:
-      [https://theearlofbirds.com/?fbclid=PAAaZTIecFEhEM-FSo7Bpm38OAO57GWdNzQ2GokouQSu1HELIeu4xEYtzQ8nk](https://theearlofbirds.com/?fbclid=PAAaZTIecFEhEM-FSo7Bpm38OAO57GWdNzQ2GokouQSu1HELIeu4xEYtzQ8nk)
+      [Photography](https://theearlofbirds.com/?fbclid=PAAaZTIecFEhEM-FSo7Bpm38OAO57GWdNzQ2GokouQSu1HELIeu4xEYtzQ8nk)
+      that's just pretty
 
 
       More pretty photos: hilah site down
