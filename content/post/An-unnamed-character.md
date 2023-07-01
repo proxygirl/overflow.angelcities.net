@@ -3,7 +3,7 @@ title: 'the blue girl with the star tears '
 date: 2022-03-26T07:00:00.000Z
 stack: content/stack/Embroidery.md
 images:
-  - image: ''
+  - image: /uploads/embroidery/IMG_20230609_134717378.jpg
     title: embroidery on white
     alt_text: 'an embroidery depicting a character with blue hair crying stars '
 ---
