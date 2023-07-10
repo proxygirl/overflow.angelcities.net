@@ -1,6 +1,6 @@
 ---
-motd: '"There is no frigate like a book to take us lands away." - Emily Dickinson'
-welcome: "### welcome to my site \U0001F5A4\n\nThere’s a lot of stuff here \U0001F4AB\n\nI hope you enjoy exploring it!\n"
+motd: 'all dogs go to heaven '
+welcome: "### welcome to my site, I'm happy you're here \U0001F5A4\n\nlast updated July 9th, 2022, 10:11pm  \U0001F4AB\n"
 badges:
   - /uploads/88x31/gc_enchantedforest.gif
   - /uploads/88x31/184.gif
@@ -15,6 +15,7 @@ badges:
   - /uploads/88x31/likepage_88x31.gif
   - /uploads/88x31/bunbrowser.gif
 ---
+
 
 
 
