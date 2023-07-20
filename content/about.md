@@ -7,10 +7,8 @@ currently:
     author: Teju Cole
     symbol: "\U0001F4D6"
   listening:
-    title: >-
-      what people call low self-esteem is really just seeing yourself the way
-      other people see you
-    author: awakebutstillinbed
+    title: 'lost in cache '
+    author: 'proxygirl '
     symbol: "\U0001F3B5"
   watching:
     title: Chicken Hole Base - Cody's Lab
@@ -83,6 +81,7 @@ blocks:
 
       More pretty photos: hilah site down :(
 ---
+
 
 
 
