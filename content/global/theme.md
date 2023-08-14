@@ -1,6 +1,6 @@
 ---
 background:
-  background_image: /uploads/backgrounds/grass-bg.jpg
+  background_image: /uploads/backgrounds/bg-small.jpg
   background_size: 850
   background_color: ''
 logo:
@@ -74,6 +74,7 @@ block:
   block_color: '#000000'
   block_shadow: '#000000'
 ---
+
 
 
 
