@@ -1,6 +1,6 @@
 ---
 background:
-  background_image: /uploads/backgrounds/bg-small.jpg
+  background_image: /uploads/backgrounds/IMG_20240713_190304428.jpg
   background_size: 850
   background_color: ''
 logo:
@@ -74,23 +74,4 @@ block:
   block_color: '#000000'
   block_shadow: '#000000'
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
