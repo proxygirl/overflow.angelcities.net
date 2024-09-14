@@ -1,7 +1,7 @@
 ---
 title: DigiCollage
 symbol: ⌖
-background: '#054873'
+background: '#C3DCF4'
 ---
 
 # DigiCollages are made from my phone with free photo editing apps. Not all elements are original.
