@@ -1,6 +1,6 @@
 ---
+welcome: "Hi my name is Chloe and I post things I make \U0001F9F6 \n\nSite last updated: **13 September, 2024**\n"
 motd: 'all dogs go to heaven '
-welcome: "Welcome to my site!\n\nI made it with the help of angelcities to put stuff I do all in one place \U0001F4E6 I think it's pretty cool and I hope you enjoy exploring it \U0001F973 \n\nlast updated July 19th, 2022\n"
 badges:
   - /uploads/88x31/gc_enchantedforest.gif
   - /uploads/88x31/184.gif
@@ -15,17 +15,4 @@ badges:
   - /uploads/88x31/likepage_88x31.gif
   - /uploads/88x31/bunbrowser.gif
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
