@@ -1,7 +1,7 @@
 ---
-title: 'Bedroom 1 '
+title: A teenage borrower who lives in a fancy house
 date: 2023-05-11T07:00:00.000Z
-stack: content/stack/Collage.md
+stack: content/stack/PapierCollage.md
 images:
   - image: /uploads/Collage/IMG_20230609_190331638~2.jpg
     title: collage on black
