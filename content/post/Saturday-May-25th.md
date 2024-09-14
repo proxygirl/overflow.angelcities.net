@@ -7,3 +7,6 @@ images:
     title: bron cimtiere
 ---
 
+good pages beautiful things
+
+P7,16,37,39,41, 99, 151, 173, 179, 188
