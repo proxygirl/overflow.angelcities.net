@@ -6,5 +6,6 @@ images:
   - image: /uploads/backgrounds/IMG_20240622_130427555.jpg
     title: locket
   - image: /uploads/backgrounds/IMG_20240622_130421008.jpg
+    title: closed locket
 ---
 
