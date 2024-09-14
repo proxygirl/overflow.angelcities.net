@@ -1,5 +1,5 @@
 ---
-title: July 25th
+title: July 25th (kitchen table)
 date: 2023-07-25T05:00:00.000Z
 stack: content/stack/DigiCollage.md
 images:
