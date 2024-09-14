@@ -1,7 +1,7 @@
 ---
 title: August 12th
 date: 2023-08-12T05:00:00.000Z
-stack: content/stack/PapierCollage.md
+stack: content/stack/DigiCollage.md
 images:
   - image: /uploads/digitalcollage/Picsart_23-08-12_18-11-49-208.jpg
     title: haloween 2
