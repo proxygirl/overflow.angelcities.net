@@ -1,7 +1,7 @@
 ---
 title: December 20th
 date: 2020-12-20T08:00:00.000Z
-stack: content/stack/Photos-.md
+stack: content/stack/DigiCollage.md
 images:
   - image: /uploads/digital collage/51130861163_ef403575e4_o.jpg
     title: digital collage
@@ -11,7 +11,7 @@ images:
 Grocery List:
 
 Flour
-Sponge 
+Sponge
 Coffee
-Dish soap 
+Dish soap
 Cat litter
