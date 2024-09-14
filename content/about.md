@@ -12,8 +12,8 @@ currently:
     author: 'Hannah V, Joe Rodwell'
     symbol: "\U0001F3B5"
   watching:
-    title: Chicken Hole Base - Cody's Lab
-    link: 'https://youtube.com/playlist?list=PLKhDkilF5o6-Hfsnhn_HFxjJ0jz45D3oE'
+    title: Brick Experiment Channel
+    link: 'https://www.youtube.com/watch?v=KLEH8RJsYgI'
     symbol: "\U0001F4FA"
 blocks:
   - title: Welcome to my site–
