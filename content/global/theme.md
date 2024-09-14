@@ -1,7 +1,7 @@
 ---
 background:
   background_image: /uploads/backgrounds/IMG_20240713_190304428.jpg
-  background_size: 850
+  background_size: 1064
   background_color: ''
 logo:
   logo_image: /uploads/logos/coupon-logo-sm.png
