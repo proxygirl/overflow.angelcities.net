@@ -1,29 +1,29 @@
 ---
 title: February 12th
 date: 2022-02-12T08:00:00.000Z
-stack: content/stack/Photos-.md
+stack: content/stack/DigiCollage.md
 images:
   - image: /uploads/digital collage/02_12_22.png
     title: digital collage
     alt_text: digital collage
 ---
 
-Grocery List: 
+Grocery List:
 
 Mushrooms
 
 Garlic
 
-Onion 
+Onion
 
-Green onion 
+Green onion
 
-Dumplings 
+Dumplings
 
-Mac n cheese 
+Mac n cheese
 
 Breakfast?
 
-Beans 
+Beans
 
-Milk 
+Milk
