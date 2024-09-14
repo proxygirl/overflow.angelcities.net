@@ -47,7 +47,8 @@ blocks:
       Booklet")
 
 
-      Art that I love because it's busy and colorful: heartslob
+      Art that I love because it's busy and colorful:
+      [heartslob](https://heartslob.com "heartslob")
 
 
       Art, collecting, web design: [Olivia](https://olivia.media)
