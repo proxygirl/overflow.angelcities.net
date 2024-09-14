@@ -42,6 +42,14 @@ blocks:
       Photos, collecting, music: [Hilah](https://hilah.angelcities.net)
 
 
+      Illustrations with sources: [Enchanted
+      Booklet](https://www.instagram.com/enchantedbooklet/?hl=en "Enchanted
+      Booklet")
+
+
+      Art that I love because it's busy and colorful: heartslob
+
+
       Art, collecting, web design: [Olivia](https://olivia.media)
 
 
