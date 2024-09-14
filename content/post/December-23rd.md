@@ -1,7 +1,7 @@
 ---
 title: December 23rd
 date: 2021-12-23T08:00:00.000Z
-stack: content/stack/Photos-.md
+stack: content/stack/DigiCollage.md
 images:
   - image: /uploads/digital collage/12_21 (1).png
     title: digital collage
