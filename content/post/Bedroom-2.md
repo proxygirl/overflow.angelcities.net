@@ -1,7 +1,7 @@
 ---
-title: Bedroom 2
+title: An Addition to the Teenage Borrower's Room
 date: 2023-05-10T07:00:00.000Z
-stack: content/stack/Collage.md
+stack: content/stack/PapierCollage.md
 images:
   - image: /uploads/Collage/IMG_20230609_190204052~2.jpg
     title: collage on black
