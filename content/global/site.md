@@ -1,5 +1,5 @@
 ---
-welcome: "Hi my name is Chloe and I post things I make \U0001F9F6\n\nSite last updated: \n\n**13 September, 2024**\n"
+welcome: "Hi my name is Chloe and I post things I make \U0001F9F6 \\\nand photos sometimes too\n\nSite last updated:\n\n**13 September, 2024**\n"
 motd: 'all dogs go to heaven '
 badges:
   - /uploads/88x31/gc_enchantedforest.gif
