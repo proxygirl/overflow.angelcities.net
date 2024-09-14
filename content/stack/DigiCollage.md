@@ -2,6 +2,7 @@
 title: DigiCollage
 symbol: ⌖
 background: '#C3DCF4'
+color: '#F0E76C'
 ---
 
 # DigiCollages are made from my phone with free photo editing apps. Not all elements are original.
