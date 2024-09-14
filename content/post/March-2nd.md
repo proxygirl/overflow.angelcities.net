@@ -1,7 +1,7 @@
 ---
 title: March 2nd
 date: 2021-03-02T08:00:00.000Z
-stack: content/stack/Photos-.md
+stack: content/stack/DigiCollage.md
 images:
   - image: /uploads/digital collage/03_2_21.png
     title: digital collage
@@ -10,7 +10,6 @@ images:
 
 Minecraft to do:
 
-Archeologist hat 
-Paintings 
-Dog stuff 
-
+Archeologist hat
+Paintings
+Dog stuff
