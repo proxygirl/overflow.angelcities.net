@@ -39,6 +39,9 @@ blocks:
       ## Art:
 
 
+      Photos, collecting, music: [Hilah](https://hilah.angelcities.net)
+
+
       Art, collecting, web design: [Olivia](https://olivia.media)
 
 
@@ -75,8 +78,5 @@ blocks:
 
 
       [Photography](https://theearlofbirds.com) that's just pretty
-
-
-      More pretty photos: hilah site down :(
 ---
 
