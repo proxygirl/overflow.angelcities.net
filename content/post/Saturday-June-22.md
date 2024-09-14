@@ -9,3 +9,11 @@ images:
     title: closed locket
 ---
 
+estate sales, then groceries
+
+-Bocas
+-Buns
+-Yogurt
+-Milk
+-Foil
+Mayo
