@@ -1,7 +1,7 @@
 ---
 title: 'Groceries '
 date: 2021-11-12T08:00:00.000Z
-stack: content/stack/Collage.md
+stack: content/stack/PapierCollage.md
 images:
   - image: /uploads/Collage/IMG_20230609_185706404.jpg
     title: collage on black
