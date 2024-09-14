@@ -1,6 +1,6 @@
 ---
 title: Pics
 symbol: ◙
-background: '#79496E'
+background: '#8EED41'
 ---
 
