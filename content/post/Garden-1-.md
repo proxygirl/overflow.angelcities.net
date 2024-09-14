@@ -1,7 +1,7 @@
 ---
-title: 'Garden 1 '
+title: A Very Well Landscaped Garden
 date: 2023-05-15T07:00:00.000Z
-stack: content/stack/Collage.md
+stack: content/stack/PapierCollage.md
 images:
   - image: /uploads/Collage/IMG_20230609_190414936.jpg
     title: collage on black
