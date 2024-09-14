@@ -1,7 +1,7 @@
 ---
 title: PapierCollage
 symbol: ✬
-background: '#8FCBE7'
+background: '#D0AC33'
 ---
 
 # PapierCollages are made using magazines, fliers, packaging, and stickers.
