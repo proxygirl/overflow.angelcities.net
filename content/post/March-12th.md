@@ -1,7 +1,7 @@
 ---
 title: March 12th
 date: 2021-03-12T08:00:00.000Z
-stack: content/stack/Photos-.md
+stack: content/stack/DigiCollage.md
 images:
   - image: /uploads/digital collage/51112311337_713f5d90b8_o.jpg
     title: digital collage
