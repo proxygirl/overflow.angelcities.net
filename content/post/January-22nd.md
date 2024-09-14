@@ -1,7 +1,7 @@
 ---
 title: January 22nd
 date: 2021-01-22T08:00:00.000Z
-stack: content/stack/Photos-.md
+stack: content/stack/DigiCollage.md
 images:
   - image: /uploads/digital collage/1_22.png
     title: digital collage
@@ -11,10 +11,10 @@ images:
 Grocery List:
 
 Beans
-Bagels 
-Cream cheese 
-Sour cream 
+Bagels
+Cream cheese
+Sour cream
 Croutons
 Ravioli
-Sauce 
-Salad 
+Sauce
+Salad
