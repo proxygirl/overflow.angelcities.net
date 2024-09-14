@@ -8,8 +8,8 @@ currently:
     author: Teju Cole
     symbol: "\U0001F4D6"
   listening:
-    title: 'lost in cache '
-    author: 'proxygirl '
+    title: Diamonds
+    author: 'Hannah V, Joe Rodwell'
     symbol: "\U0001F3B5"
   watching:
     title: Chicken Hole Base - Cody's Lab
