@@ -8,8 +8,8 @@ currently:
     author: Teju Cole
     symbol: "\U0001F4D6"
   listening:
-    title: Diamonds
-    author: 'Hannah V, Joe Rodwell'
+    title: Flora's Secret
+    author: Enya
     symbol: "\U0001F3B5"
   watching:
     title: Brick Experiment Channel
