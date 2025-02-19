@@ -3,6 +3,7 @@ title: Ordering Your Own Labs to Monitor Gender Affirming Hormone Therapy
 date: 2025-02-18T06:00:00.000Z
 stack: content/stack/Pics.md
 images:
+  - image: /uploads/Screenshot_20250218-194628~2.png
   - image: /uploads/Screenshot_20250218-194623~2.png
 ---
 
