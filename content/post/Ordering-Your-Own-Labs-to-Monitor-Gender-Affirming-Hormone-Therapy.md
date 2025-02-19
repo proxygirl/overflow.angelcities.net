@@ -3,7 +3,7 @@ title: Ordering Your Own Labs to Monitor Gender Affirming Hormone Therapy
 date: 2025-02-18T06:00:00.000Z
 stack: content/stack/Pics.md
 images:
-  - {}
+  - image: /uploads/Screenshot_20250218-194623~2.png
 ---
 
 \*\*Disclaimer: I am a clinical laboratory scientist, not a doctor. The following information has been researched over multiple years and has been reviewed by multiple other lab professionals, but never reviewed by a doctor. This was also made with limited knowledge of pediatric hormone therapy. Please be careful and stay safe \<3  --Written 02/18/2025
@@ -84,9 +84,9 @@ This test has very different male/female reference ranges. If you have been taki
 
 ##### Ordering Tests Online
 
-Quest Diagnostics 
+Quest Diagnostics
 
-[https://www.questhealth.com/?srsltid=AfmBOopIBHBGRal85zlmz9YvSXnthlQC5TyDxxLrGUQmnN4gilZ6b8\_T](https://www.questhealth.com/?srsltid=AfmBOopIBHBGRal85zlmz9YvSXnthlQC5TyDxxLrGUQmnN4gilZ6b8_T) 
+[https://www.questhealth.com/?srsltid=AfmBOopIBHBGRal85zlmz9YvSXnthlQC5TyDxxLrGUQmnN4gilZ6b8\_T](https://www.questhealth.com) 
 
 \*Blood drawn at Quest locations only, follow link to Quest website and type test name into search field
 
@@ -122,7 +122,7 @@ Example labs to order while continuing hormone therapy:
 
 Walk-In-Lab
 
-[https://www.walkinlab.com/?srsltid=AfmBOor-4hKghjnw-3x10\_1aPJTyCcyPl8Gh0W9AkYklz1mHjkuDi41R](https://www.walkinlab.com/?srsltid=AfmBOor-4hKghjnw-3x10_1aPJTyCcyPl8Gh0W9AkYklz1mHjkuDi41R) 
+[https://www.walkinlab.com/?srsltid=AfmBOor-4hKghjnw-3x10\_1aPJTyCcyPl8Gh0W9AkYklz1mHjkuDi41R](https://www.walkinlab.com) 
 
 \*Blood drawn at both Labcorp or Quest locations, follow link to Walk-In Lab website and type test name into search field
 \*Walk-In-Lab is banned in NY, NJ, RI, MA, MD, AZ (depending on facility used, ie, Quest or Labcorp)
@@ -136,4 +136,4 @@ Example labs to order while continuing hormone therapy:
 
 &#x9;On Masculinizing Therapy-- Testosterone Total Serum Test, CBC/CMP Combo, Total Cost = $100
 &#x9;On Feminizing Therapy-- Testosterone Total Serum Test, Estrogen Blood Test, \
-                                               CBC/CMP Combo, Total Cost =$169
+CBC/CMP Combo, Total Cost =$169
