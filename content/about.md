@@ -12,8 +12,8 @@ currently:
     author: Dntel
     symbol: "\U0001F3B5"
   watching:
-    title: Brick Experiment Channel
-    link: 'https://www.youtube.com/watch?v=KLEH8RJsYgI'
+    title: Cody's Mushrooms
+    link: 'https://www.youtube.com/watch?v=ufZ4_b422Bk'
     symbol: "\U0001F4FA"
 blocks:
   - title: "Welcome to my home on the internet \U0001F9F8"
