@@ -45,7 +45,7 @@ blocks:
 
       ❤️chloe.
   - title: Good Things to Read--
-    content: "### recs from me 2 you\n\nof alltime, personally: \n\n► Desperaux, Kate DiCamillo\n\n► Loser, Jerry Spinelli\n\n► Monsieur Venus, Rachilde\n\n► The Beautiful Things That Heaven Bears, Dinaw Mengestu\n\n► The Ecstasy of Communication, Jean Baudrillard\n\n► Blind Spot, Teju Cole\n\n► The Young and the Evil, Charles Henri Ford\n\nelse: [https://www.goodreads.com/user/show/177067271-chloe](https://www.goodreads.com/user/show/177067271-chloe)\n\nRecommend something for me to read? \U0001F48C [cliphboard@gmail.com](mailto:cliphboard@gmail.com)\n"
+    content: "### recs from me 2 you\n\nof alltime, personally:\n\n► Desperaux, Kate DiCamillo\n\n► Loser, Jerry Spinelli\n\n► Monsieur Venus, Rachilde\n\n► The Beautiful Things That Heaven Bears, Dinaw Mengestu\n\n► The Ecstasy of Communication, Jean Baudrillard\n\n► Blind Spot, Teju Cole\n\n► The Young and the Evil, Charles Henri Ford\n\nelse: [https://www.goodreads.com/user/show/177067271-chloe](https://www.goodreads.com/user/show/177067271-chloe)\n\nRecommend something for me to read? \U0001F48C [cliphboard@gmail.com](mailto:cliphboard@gmail.com)\n"
   - title: Nice Places to Go--
     content: >
       ## Games:
@@ -92,9 +92,6 @@ blocks:
 
 
       Sprites and other art I like: [Lydia](https://lyds.itch.io/)
-
-
-      Lovely characters and style: [Keaton](https://www.keatonflowers.com/)
 
 
       More 3D modeling: [Thrift3d](https://teia.art/thrift3d) collection
