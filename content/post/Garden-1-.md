@@ -1,5 +1,5 @@
 ---
-title: A Very Well Landscaped Garden
+title: Opulent Garden ?
 date: 2023-05-15T07:00:00.000Z
 stack: content/stack/PapierCollage.md
 images:
