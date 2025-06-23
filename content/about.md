@@ -17,7 +17,33 @@ currently:
     symbol: "\U0001F4FA"
 blocks:
   - title: "Welcome to my home on the internet \U0001F9F8"
-    content: "Angelcities made this super cool site but I made all the stuff I post!\n\nI like children's book illustrations, catalogues, farmland scenery, estate sales, the art my friends make, grocery stores, fruit stickers, grid ruled notebooks, public use buildings and public transport, gardening, 90s/2000s web and tech, and comic books.\n\nI do try to keep this site updated!!\n\n❤️\U0001F3F0 chloe.\n"
+    content: >
+      I fear this blog reveals that I think ridiculous things are art. And that
+      I am too genuinely interested in things that are childish. And the
+      combination of that with mature content and themes might be just as
+      uncomfortable to a viewer as it is to me lol. But this site is a proper
+      dump blog for anything that remotely qualifies as art and as made by me,
+      as we at one point thought the internet should be. Around 2017 I genuinely
+      thought my internet avi had control over my life and that I'd die if my
+      Twitter got deleted, fully y2k style. I'm not particularly scared of that
+      anymore, though, so I'm feeding her lots of photos and art so that she
+      grows big and strong. 
+
+
+      \#childrensbookillustration #catalogue #pastoral #farmland #scenery
+      #estatesale #art #publicdomain #literalpublicdoman #publicspaces
+      #fruitstickers #trains #ships #NOTairplanes #y2k #comics #angels #liminal
+      #suburbs #applebees #wafflehouse #dollargeneral #DG #buspass
+      #marlborored40s #andcamelcrushes #sheep #dogs #cats #hugs #prayers #swag
+      #redshoes #80s #gay80s #casettetapes #bball #basketball #quilting
+      #embroidery #urbanexploring #railpass #minecraft #coffee #apero #geocities
+      #ascii #indiegames #runescape #wow #worldofwarcraft #diablo #diabloII
+      #mmorpg #runeword #mythic #biblical #meta #symbol #egg #addiction #therapy
+      #college #university #academic #stem #doctorwho #yogurt #snack #mending
+      #sewing #books #lol #k #bye
+
+
+      ❤️chloe.
   - title: Good Things to Read--
     content: "### recs from me 2 you\n\nMisc. Fiction--\n\n* ZZT by Anna Anthropy\n* Melal: a Novel of the Pacific by Robert Barclay\n* Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk\n* The Beautiful Things That Heaven Bears by Dinaw Mengestu\n* Girlfriends by Emily Zhou\n* White Teeth by Zadie Smith\n* Tropical Fish by Doreen Baingana\n\nComics-- (almost all of these need TWs)\n\n* Overshadowed by a Castle by Gabe Howell\n* Forget Me Not by Gabe Howell\n* Dropout by gray Folie\n* The Pervert by Remy Boydell and Michelle Perez\n* Nearly Every Dream by Remy Boydell\n* Barbar by Laurent de Brunhof\n* PeePeePooPoo by Caroline Cash\n* Babymouse by Matthew Holm\n* Persepolis by Marjane Satrapi\n* Archie\n\nMeant for Kids, but still--\n\n* Moomin (9 books, 4 picture books, and a comic strip) by Tove Jansson\n* Desperaux by Kate DiCamello\n* Loser by Jerry Spinelli\n* Mysterious Benedict Society by Trenton Lee Stewart\n* Winnie the Pooh by A.A. Milne (specifically including the Ernest H. Shepard illustrations)\n* Magic Treehouse by Mary Pope Osborne\n* Gregor the Overlander by Suzanne Collins\n\n### Up Next--\n\n* Blind Spot by Teju Cole\n* The Atrocity Exhibition by J.G. Ballard\n* Conflict is Not Abuse by Sarah Schulman\n* the entire iSpy collection\n* The Doll People (series, again) by Ann M Martin\n\nRecommend something for me to read? \U0001F48C [cliphboard@gmail.com](mailto:cliphboard@gmail.com)\n"
   - title: Nice Places to Go--
