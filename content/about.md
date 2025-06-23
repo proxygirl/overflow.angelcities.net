@@ -27,7 +27,7 @@ blocks:
       thought my internet avi had control over my life and that I'd die if my
       Twitter got deleted, fully y2k style. I'm not particularly scared of that
       anymore, though, so I'm feeding her lots of photos and art so that she
-      grows big and strong. 
+      grows big and strong.
 
 
       \#childrensbookillustration #catalogue #pastoral #farmland #scenery
@@ -45,7 +45,7 @@ blocks:
 
       ❤️chloe.
   - title: Good Things to Read--
-    content: "### recs from me 2 you\n\nMisc. Fiction--\n\n* ZZT by Anna Anthropy\n* Melal: a Novel of the Pacific by Robert Barclay\n* Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk\n* The Beautiful Things That Heaven Bears by Dinaw Mengestu\n* Girlfriends by Emily Zhou\n* White Teeth by Zadie Smith\n* Tropical Fish by Doreen Baingana\n\nComics-- (almost all of these need TWs)\n\n* Overshadowed by a Castle by Gabe Howell\n* Forget Me Not by Gabe Howell\n* Dropout by gray Folie\n* The Pervert by Remy Boydell and Michelle Perez\n* Nearly Every Dream by Remy Boydell\n* Barbar by Laurent de Brunhof\n* PeePeePooPoo by Caroline Cash\n* Babymouse by Matthew Holm\n* Persepolis by Marjane Satrapi\n* Archie\n\nMeant for Kids, but still--\n\n* Moomin (9 books, 4 picture books, and a comic strip) by Tove Jansson\n* Desperaux by Kate DiCamello\n* Loser by Jerry Spinelli\n* Mysterious Benedict Society by Trenton Lee Stewart\n* Winnie the Pooh by A.A. Milne (specifically including the Ernest H. Shepard illustrations)\n* Magic Treehouse by Mary Pope Osborne\n* Gregor the Overlander by Suzanne Collins\n\n### Up Next--\n\n* Blind Spot by Teju Cole\n* The Atrocity Exhibition by J.G. Ballard\n* Conflict is Not Abuse by Sarah Schulman\n* the entire iSpy collection\n* The Doll People (series, again) by Ann M Martin\n\nRecommend something for me to read? \U0001F48C [cliphboard@gmail.com](mailto:cliphboard@gmail.com)\n"
+    content: "### recs from me 2 you\n\nof alltime, personally: \n\n► Desperaux, Kate DiCamillo\n\n► Loser, Jerry Spinelli\n\n► Monsieur Venus, Rachilde\n\n► The Beautiful Things That Heaven Bears, Dinaw Mengestu\n\n► The Ecstasy of Communication, Jean Baudrillard\n\n► Blind Spot, Teju Cole\n\n► The Young and the Evil, Charles Henri Ford\n\nelse: [https://www.goodreads.com/user/show/177067271-chloe](https://www.goodreads.com/user/show/177067271-chloe)\n\nRecommend something for me to read? \U0001F48C [cliphboard@gmail.com](mailto:cliphboard@gmail.com)\n"
   - title: Nice Places to Go--
     content: >
       ## Games:
