@@ -4,9 +4,7 @@ symbol: ✬
 background: '#D0AC33'
 ---
 
-# PapierCollages are made using magazines, fliers, packaging, and stickers.
-
-Recreating the feel of stories like The Borrowers, The Doll People, Spiderwick Chronicles, and with so many hidden objects, these collages are meant to be fun to look at.
+Yeah just another way to try and get my point across! Some things just look better when they're made out of paper and there's a lot of cool physical resources out there to hunt down and preserve in the gel of your little katamari ball. 
 
 Notable sources and references for the collage collection:
 
