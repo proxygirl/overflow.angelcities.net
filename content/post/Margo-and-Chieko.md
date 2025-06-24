@@ -46,7 +46,7 @@ But this body in front of her would not be a comfort to her in the afterlife, in
 
 She hoped the girl's great aunt had been a fun and witty old lady. With a sense of style and some crusty little animals and a monogramed wine glass that she drank her single glass of red out of every night on the couch with her feet up, thinking about what color she would ask for at her pedicure next week. The kind of old lady that was a little behind the times but genuinely kind and has seen some shit and stopped being anxious about her expressing herself once she hit menopause. But then she opened her eyes and looked at the great aunt's body and sighed. She probably suffered like this a lot actually. Maybe that's why her body was in this state now and not peaceful, arms laid to the side, mouth closed, eyes shut. She figured maybe this lady needed a proper scream, and honestly, good for her for doing it. 
 
-"You must've seen some shit" Chieko said, now relaxed in the great aunt's body's presence. They were friends now. She paused for a minute, just in case her friend wanted to reply. Then stood up, holding her headphones in her hand, and nodded, throwing her head back and her arms out to her sides:
+"You must've seen some shit" Chieko said with a chuckle, suddenly much more relaxed in the great aunt's body's presence. They were friends now. She paused for a minute, just in case her friend wanted to reply. Then stood up, holding her headphones in her hand, and nodded, throwing her head back and her arms out to her sides:
 
 "Let it out girl, you deserve to be free!!" 
 
