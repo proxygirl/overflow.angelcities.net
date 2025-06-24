@@ -38,7 +38,9 @@ Then she sighed. She didn't know this lady, but she was going to have to sit and
 
 I mean, like, goddamn! Do you have to make it look so gruesome??
 
-Amen." And then she made the sign of the cross on her body and raised her head to look at the girl's great aunt. It was sad. Sad that the body that was that lady's home was done with now. Sad that it was here in front of her even though the lady had passed on. She thought about how much more a body with a soul could do compared to a body without one. She sat with her eyes closed there next to the bed for a long time. Just breathing.
+Amen." 
+
+And then she made the sign of the cross on her body and raised her head to look at the girl's great aunt. It was sad. Sad that the body that was that lady's home was done with now. Sad that it was here in front of her even though the lady had passed on. She thought about how much more a body with a soul could do compared to a body without one. She sat with her eyes closed there next to the bed for a long time. Just breathing.
 
 She thought about what weighed on people's minds when they decided, still alive, whether they'd like to be buried or cremated. Erasing your body seemed entirely fair to her, as in cremation, but personally she wanted her body in case their was an afterlife. Not because she liked it, in fact she would be thrilled to be reborn as a bug or a vase or something like that. But she needed physical things to feel comfort, like her old familiar body, she thought.
 
