@@ -1,5 +1,5 @@
 ---
-title: IV Sex With Wound 18+ (extreme caution if ur my mom or family!)
+title: IV Sex With Wound 18+ Trigger Warning
 date: 2025-05-13T07:00:00.000Z
 stack: content/stack/Things2Consider.md
 ---
