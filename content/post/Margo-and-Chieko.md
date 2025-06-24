@@ -28,7 +28,7 @@ Chieko smiled and laughed a little to herself as Marguerite receeded into the lo
 
 There was a body there. A dead body. And Chieko stood frozen.
 
-The body that had been dead for so long the rigor mortis was setting in and her arms were brought up to her chest but her wrists hung limply down making it look not at all peaceful. Her back was sort of arched and her neck was angled sharply backward and her mouth was wide open, gaping, like her soul had literally just left her body through her mouth in rushing white whoosh of vapor. Her mouth was open so wide. Her eyes were wide open too. Looking straight up. Chieko actually thought she might throw up. She yanked her headphones out by the cord and took a deep breath. But all she could think about was the deep breath or lack thereof it looked like the great aunt's body was struggling to take. 
+The body that had been dead for so long the rigor mortis was setting in and her arms were brought up to her chest but her wrists hung limply down making it look not at all peaceful. Her back was sort of arched and her neck was angled sharply backward and her mouth was wide open, gaping, like her soul had literally just left her body through her mouth in rushing white whoosh of vapor the moment before Chieko opened the door. Her mouth was open so wide. Her eyes were wide open too. Looking straight up. Chieko actually thought she might throw up. She yanked her headphones out by the cord and took a deep breath. But all she could think about was the deep breath or lack thereof it looked like the great aunt's body was struggling to take. 
 
 Then she sighed. She didn't know this lady, but she was going to have to sit and pray for her for a minute now. Her petrified body looked like it was in too much pain.
 
