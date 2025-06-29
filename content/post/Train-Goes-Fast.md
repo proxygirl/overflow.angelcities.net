@@ -3,7 +3,8 @@ title: Train Goes Fast
 date: 2025-06-13T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
-  - {}
+  - image: /uploads/photos/IMG_20250612_161431973.jpg
+    title: rabise
   - image: /uploads/photos/IMG_20250612_162600954.jpg
     title: smog check
   - image: /uploads/photos/IMG_20250612_152904923.jpg
