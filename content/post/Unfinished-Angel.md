@@ -2,12 +2,13 @@
 title: 'Unfinished: Angel'
 date: 2025-05-21T07:00:00.000Z
 stack: content/stack/Things2Consider.md
+images:
+  - image: /uploads/ba82b40529c90890cca535e5ce02bb84.jpg
 ---
 
 There once was an angel who was like all other angels in that once she came of age she would experience a fall. Except this was all she could say when it came to the similarities between herself and others. 
 
 I will tell you her story, simply because I have to. But as lovely as an all-knowing narrator would be, I can only speak what our angel herself knows. I do get the occasional gut feeling of what may actually be going on, although I attribute this to the fact that it is our angel  who must be getting those gut feelings herself. So there you have it, I am quite limited in my ability to tell this story I fear, but allow us to continue, in light of this regrettable limitation.
-
 
 We are not quite sure how our angel appears, outwardly, and artistic renditions made in the time following her death seem to vary greatly not in their literal form but in the character they convey; the expression, the eyes, the mouth, the wrinkles, the hair even. At times she is even mistaken for someone else, as I recall one incident where a portrait was mistakenly placed in the collection box of another angel by her same name. 
 
@@ -16,7 +17,6 @@ In this way she was almost similar to one of the objects in the World Sale. Thos
 But yes, our angel was similar to these objects. She herself read the scholar's work, in university, and of course it had been many years since it had first been published at that point and professors were familiar with how to present and discuss its ideas As she read it on her dormitory's porch after class, she began to sense she was stuck in that cycle of describing and deciphering just as he described. And the next week in class, as her classmates discussed the World Sale and its merits, she wondered evem more if there was any chance at one point an object were accidentally stuck inside of her? Perhaps she swallowed a special bead or marble as a child and would be forever stuck feeling for both herself and it? Likely not. But sometimes she thought about the possible marble in her stomach and how shiny it must have been when she swallowed it and how clouded and sticky it must be now and all of the bile that had flown past it and the little fold of her intestine where it could be comfortably rooted and how much of her life had been spent with a marble for company. 
 
 Perhaps she was too scientific, or just had too much energy to think, but she wasn't sure how her other classmates took this so objectively, even chuckling as they thought of their mothers' World Sale jewelry or their own World Sale baseball gloves and dolls and endtable ornaments.
-
 
 Allow us to return for a moment, though, to our angel at present. Because I described for you at the start of this story a fall that she would take once she came of age. This fall-- everyone had it, so they said. It came at a different age for everyone, and so "coming of age" was considered something that happened during a roughly defined period of years rather than at a set time. Other angels hid their slow loss of footing and accelerating slide down the loose rocks into hell. This was just how it happened, it was an inexplicable part of the process. There were occasionally spaces where this principle was lost, our angel had seen whispered exchanges in bathrooms or with hands covering mouths at the office, or between two seeming strangers on the street who have a short conversation behind their turned backs. For the longest time she was mystified by those exchanges, but she would later come to know them as liminal types of connections-- they were "do you have a lighter?" or "do you have a tampon?" or "you good?". Nobody truly said out loud that they were slipping. And this was a bit of a disappointment to our angel. And this very thing had been happening for centuries, in this specific way at least since angels like ours were afforded the extended comforts of living in heaven until adulthood rather than their gravity failing immediately upon their appearance no longer resembling that of fat babies. Our angel knew it was better this way, to have a proper time to experience what heaven has to offer. But the fall she dreaded so much. And she was so upset, she was properly distraught, thinking about how she would manage it. 
 
@@ -28,14 +28,7 @@ But oh, our poor angel, it was not so easy. This was the case: she was on a ques
 
 She did have one friend, an angel masquerading as a human, who saw things as they were. This friend never outright said that she saw things, of course, but she alluded to it in the things she said or how she acted. She said, once, she felt similar to our angel in a way. At first our angel was surprised by this, not only because it was a fairly bold thing to say, a thing most people usually wouldn't venture to say, but also because our angel had had the same thought already herself. They were both aware of the well-established superstition surrounding naming, and while they didn't share the same name (which would have been awkward, scary, tense) they had adjacent names. Like two primary school children with names one after another in the alphabet. Line partners. It seemed to our angel that they had once had similar feelings, perhaps during their formative years, but had followed slightly different paths. Despite this, they were still
 
-
-
-
 Trust
-
-
-
-
 
 Since heaven and hell and humanity exist all now on the same physical plane, there were humans to talk to in addition to the angels. And other angels masquerading as humans in desperate attempts to prolong their fates. There were all lovely people to talk to and great companions could be made from them but it was a tricky business. 
 
@@ -45,13 +38,7 @@ It was worth it, though, because she did not know how to make sense of what was 
 
 And sometimes there were witty humans, or the angels masquerading as humans, who shared tips for how to scamper back up a few rocks or improve ones mental orientation toward hell. 
 
-
-
-
 One day, after many months of fearful sliding, the angel realized something, though-- that she was no longer moving. She certainly felt like she was, the sky was drifting by and she could feel the drop itself in her stomach and she felt very unsteady. But there were no rocks beneath her feet, only flat and hard packed dirt. She felt as though she were strapped to the front of a train, but everything was silent. No echoing lose pebbles or rustling gravel. Even the wind she felt had no sound. She felt like she needed to open her mouth to scream or sprint to throw herself off the cliff she knew she stood on the edge of but at that exact moment she also knew there was no point in doing anything besides stay right where she was. She had stopped falling at some point and now that she had seen it there was no point in petulent protest. 
-
-
-
 
 She waited. 
 
@@ -59,62 +46,26 @@ She sat down.
 
 She took a deep breath. 
 
-
-
-
 And for a second she thought everything stopped moving. 
-
-
-
 
 But then it started up again.
 
 She felt the rush of vertigo like she had been yanked back at the end of a bungee jump. If only she could actually feel that. It felt like she imagined that might feel, let's say. 
 
-
-
-
 The angel sat for quite a bit longer. Staring at her feet waiting for a confirmation of what was going on.
-
-
-
 
 Then, after a bit of time had passed, the angel realized that in reality nothing had changed. She still felt as though she was falling in the exact way she did when she had actually been falling. And she still wished she had someone to talk to, perhaps now more than ever. She didn't know how long she had been falling and slipping and sliding in reality, but now her interactions with the humans and the angels masquerading as humans and those suffering out their punishments in hell would be the same as before because she felt the same. Her best hope would be that their witty phrases and pet rocks would somehow hold new meaning to her now that she knew the truth. Perhaps those pet rocks were always meant for someone who knew they were not actually falling to hold them. 
 
-
-
-
 And perhaps one day she would learn why she felt like she was falling although she was on solid ground. Perhaps there was some deeper acceptance of her fate she would come to learn, and that would stabilize her immediate environment. 
-
-
-
 
 All of those things were true, in the end. However, not in the way our angel had expected. 
 
-
-
-
 In reality, the angel had forgotten to consider one important thing that would prevent her from seeing her fate-- where she had landed. 
-
-
-
 
 Our poor angel was, regrettably, in hell.
 
-
-
-
 Around her angels freshly grown out of their adolescence stumbled around, nude. They practically poured out from the hillside in a crush. Beside the hill was a dusty field where the angels disentangled themselves, and beyond that, a field of aphosels were just beginning to bloom and their thick stalks cracked as they were clumsily thrust aside. They cried out, all of them. Our angel remembers no sound at all from her own fall and stumble, though, and exposing her to that now would certainly bring tears to her eyes. 
-
-
-
 
 Each sin, they will come to learn, is punished in real time-- an eternity of suffering in the manner befitting. Just as the lustful are forever caught in the winds for Dante are they here, but it is called by other names. The psychological toll of being unable to experience love from one who wishes to give it, the forced restraint when faced with literal death, the shame of a bad habit, empathy for someone who has hurt you, silence in self sabotage.
 
-
-
-
 But, of course, God has died. And upon arriving on this cursed plane everyone will receive a small piece of him. It is the only outside resource that will be given for certain, although whether it is of benefit is pointless to even consider. It has been stuck inside of you. And that piece of god, it has been said, grants powers and perceptions.
-
-
-
