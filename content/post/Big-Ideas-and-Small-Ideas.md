@@ -2,6 +2,8 @@
 title: Big Ideas and Small Ideas
 date: 2025-05-28T07:00:00.000Z
 stack: content/stack/Things2Consider.md
+images:
+  - image: /uploads/4fdb537bc6f45bfffb50c7ec8aa0ee13.jpg
 ---
 
 Pappys walking power the world turning 
@@ -31,13 +33,7 @@ Thinking about the light of the world
 Want to run around want to throw up want to cry\
 Also laying in a field feeling the crushing weight of it all would do
 
-
 Tfw you drop your vape at the lake and it starts sliding down rocks
 
 Feeling like I'm on some delusion type shit\
 ("type shit" lmao)
-
-
-
-
-
