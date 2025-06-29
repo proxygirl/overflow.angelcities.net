@@ -7,3 +7,6 @@ images:
   - image: /uploads/photos/IMG_20250612_152904923.jpg
 ---
 
+a long amtrak trip from the west coast to the midwest
+
+a note to self to remember that if I am still lonely when I am old, or ever again really with $200 and a week to kill, the trains are far from the worst place to go
