@@ -5,6 +5,7 @@ stack: content/stack/Pics.md
 images:
   - {}
   - image: /uploads/photos/IMG_20250612_162600954.jpg
+    title: smog check
   - image: /uploads/photos/IMG_20250612_152904923.jpg
     title: 6 flags
 ---
