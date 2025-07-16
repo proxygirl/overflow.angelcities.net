@@ -3,6 +3,8 @@ title: 'It''s an "I''m Tired of Being Emotional" Summer :)'
 date: 2025-07-15T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
+  - image: /uploads/IMG_20250613_154133966.jpg
+    title: rocksview
   - image: /uploads/IMG_20250613_111636062.jpg
     title: asbestos
   - image: /uploads/IMG_20250612_063411881.jpg
