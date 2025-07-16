@@ -1,5 +1,5 @@
 ---
-title: Sad Sack
+title: sad sack
 date: 2025-05-01T07:00:00.000Z
 stack: content/stack/Things2Consider.md
 images:
