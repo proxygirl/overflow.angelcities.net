@@ -25,8 +25,6 @@ images:
     title: sacramento
   - image: /uploads/IMG_20250612_173730562.jpg
     title: dpndable
-  - image: /uploads/IMG_20250612_162600954.jpg
-    title: repairview
   - image: /uploads/IMG_20250613_154144987_HDR.jpg
     title: hillsview
   - image: /uploads/IMG_20250612_201519856.jpg
