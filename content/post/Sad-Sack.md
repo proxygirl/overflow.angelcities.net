@@ -3,7 +3,7 @@ title: sad sack
 date: 2025-05-01T07:00:00.000Z
 stack: content/stack/Things2Consider.md
 images:
-  - image: /uploads/1.jpg
+  - image: /uploads/sadsack.jpg
 ---
 
 The thing about being a sad sack, is that there's nothing really nice about it at all. You drag yourself along, barely moving an inch at a time but you feel every pebble and bump catch on the lose skin that hangs off of you anyway. Like sysyphus but you never get to start over. There's no moments pause right before you get going again. There's no choice to keep going-- well, there is-- but it's always a choice clouded by suffering. 
