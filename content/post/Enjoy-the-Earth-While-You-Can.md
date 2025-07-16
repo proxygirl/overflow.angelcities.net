@@ -3,6 +3,8 @@ title: 'It''s an "I''m Tired of Being Emotional" Summer :)'
 date: 2025-07-15T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
+  - image: /uploads/IMG_20250612_173611679.jpg
+    title: lariver
   - image: /uploads/IMG_20250711_155552923.jpg
     title: labebe
   - image: /uploads/IMG_20250629_082520352.jpg
