@@ -1,7 +1,7 @@
 ---
 title: 'Four (18+ self harm, gore)'
 date: 2025-06-28T07:00:00.000Z
-stack: content/stack/DigiCollage.md
+stack: content/stack/Things2Consider.md
 images:
   - image: /uploads/dbtngthms.jpg
 ---
