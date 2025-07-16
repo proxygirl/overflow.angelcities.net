@@ -3,7 +3,7 @@ title: Two (18+ sexual content)
 date: 2025-07-08T07:00:00.000Z
 stack: content/stack/Things2Consider.md
 images:
-  - {}
+  - image: /uploads/dngnprn.jpg
 ---
 
 Chapter One
@@ -44,7 +44,6 @@ He jumped down from the stool, arms outstretched like a pigeon taking flight, "D
 Then tapering his dance into a spin,
 "But you, my muse, my doll, you are the core of it all! Our games bring me joy and inspiration like nothing I have experienced before! There is no other doll like you and no other Jester like me and a show like ours, with you here in the cellar and me before the King, will be divine!"
 
-
 His spin wound into a descending crouch in front of Piper, and he held her face in his leather-gloved hands again, "You are my most prized possession, my dear"
 And his fermenting breath clouded her head and dulled the blow he landed to her eye socket before standing to walk away. 
 
@@ -70,7 +69,6 @@ He couldn't help but tap his heels back and forth against the stone ground, gidd
  "Aren't I clever! Aren't I clever!"
 
 and shaking his head side to side, the baubles of his dirty hat swinging along. He sang as he slowly depressed the plunger of the syringe against Piper's arm. Then, letting her body fall, he brought his legs up to stand, the soles of his feet coming into contact with the ground in four semi-synchronous clicks. He slowly came to stand, hands on his knees, then stretched his arms up to the sky above him, dropping the empty syringe as he did so. "Arghhahhh!" he said with relief and a stretch. And then wiggled his arms back and forth and spun himself left and right at the waist as if he was relieving all of the tension of a good night's sleep. He folded forward to touch his toes and bounced there a few times, admiring his own shoes. He felt his own mouth water at their sight. He gathered up the edge of his sleeve to brush away the dust that had accumulated on one of their toes. Letting his spit drip down onto the top of the shoes, he drooled for a moment on them before sucking the thick drop that hung down back into his mouth, smacking his lips, and cocking his head thoughtfully as he shined their perfect leather surface. For a minute until he could almost make out his own reflection in them. He grinned and laughed softly to himself, then, beside him, the girl he had forgotten all about for a moment stirred slightly. Without moving his head, he rotated his eyes to look to his right where the layers and layers of fabric over Piper's legs rustled as she squirmed.
-
 
 Chapter Two
 
@@ -114,7 +112,6 @@ Then it clamped down on either side of her throat, pulling down into her body ha
 
 Epilogue
 
-
 Piper regained consciousness on the dusty stone floor of the central room. It stank badly now, of despair and suffering. Yellow apple cores lay strewn about, attracting rats who didn't even bother to carry off their prize and ate fatly in the corners, watching. Thin streams of wine ran down from a bottle that lay smashed, turning the dust into red mud as it ran down to the grate in the center of the room. But Piper was not alone, and in the farthest corner of the room, she could just make out the tall silhouette of the Jester. Perched on his stool, slouching in the darkness, he muttered to himself indistinctly, 
 
 "my girl, MY girl! I am the clever one! mm, ahh, yes! YES!" he yelled, coming to stand arms outstretched, then just as quickly "NO!" as he reached across his body to smash a half empty bottle of wine against the wall. He crouched back down on the stool,
@@ -137,10 +134,6 @@ The Jester, towering now over Piper, reached down to the ground and pulled back 
 
 The Jester laughed crazedly, tearing up as if it were a joke, "A whore!", he said shaking with laughter as he grinned, "A whore!", he doubled over, at a loss for breath, and slapped his leg, "A whore!", he knelt before Piper smiling widely with tears flowing from his giant eyes,
 
-
 "Why didn't you just tell me you were a whore!"
 
 And then rising again, his shadow enveloping her, the Joker pulled gently on Piper's chains to inch her hands out from beneath her dress. He let his tears flow as he looked upon them. Then, incredulously, he drew the whip and brought it down with a snap against Piper's palms. She instinctively jerked back but the Jester revealed her hands again pulling on the chain and cast the whip down on her fingers. Piper's hands curled into themselves, wincing, but the whip came down again at the base of her palms causing her fingers to flex back out and allowing the Jester to strike again squarely in the center of her hands. The biting whip felt like electrical wire, still charged, as the stinging radiated up her forearms. Piper bit into her lip, grimacing, as he struck again, and again a fifth time. Bent over her knees, palms outstretched, Piper let her crotch throb into her stomach as the Jester sliced her hands to ribbons, overlapping lash over lash. She climaxed several times, but never enough for the Jester to notice in his frenzy. Letting the warm fluid run over her legs as he brought the whip down again, her body convulsing each time. 
-
-
-
