@@ -3,6 +3,8 @@ title: Enjoy the Earth While You Can!
 date: 2025-07-15T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
+  - image: /uploads/IMG_20250612_162600954.jpg
+    title: repairview
   - image: /uploads/IMG_20250613_154144987_HDR.jpg
     title: hillsview
   - image: /uploads/IMG_20250612_201519856.jpg
