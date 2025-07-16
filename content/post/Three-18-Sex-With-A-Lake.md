@@ -1,5 +1,5 @@
 ---
-title: Three 18+ sex with lake
+title: Three (18+ sexual content)
 date: 2025-05-25T07:00:00.000Z
 stack: content/stack/Things2Consider.md
 images:
