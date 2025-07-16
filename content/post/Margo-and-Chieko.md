@@ -3,7 +3,7 @@ title: hospice
 date: 2025-06-24T07:00:00.000Z
 stack: content/stack/Things2Consider.md
 images:
-  - image: /uploads/45c2949f6b20a33fc5a5444550628d11.jpg
+  - image: /uploads/hspice.jpg
 ---
 
 Chieko was waiting in the lobby of the hospice center. She was waiting for the girl who had gone back with her grandma to see her great aunt's body. The girl's grandma, Marguerite, had taken over the proceedings and directions after her great aunt passed away, almost pre-emptively. She shuttled all of the visitors to and from the room, asked if they'd like to say a few words, held their gazes to recognize with them that what was happening was sad, stood with the utmost appropriateness and humility while they had their own thoughts and processed seeing the body. She shed one tear per visitor, as if she had perfected the art of tapering her emotions so that their utility would be maximized. But it didn't seem hard or forced or sad to her, it was more like this was her job, her time to shine.
