@@ -1,7 +1,7 @@
 ---
 title: hospice
 date: 2025-06-24T07:00:00.000Z
-stack: content/stack/Things2Consider.md
+stack: content/stack/Writing.md
 images:
   - image: /uploads/hspice.jpg
 ---
