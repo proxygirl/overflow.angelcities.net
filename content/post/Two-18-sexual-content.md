@@ -1,5 +1,5 @@
 ---
-title: Two (18+ sexual content)
+title: Sex in the Oedipal Dungeon
 date: 2025-07-08T07:00:00.000Z
 stack: content/stack/Writing.md
 images:
