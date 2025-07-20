@@ -1,5 +1,5 @@
 ---
-title: 'Four (18+ self harm, gore)'
+title: Sex With Wound (warning self harm)
 date: 2025-06-28T07:00:00.000Z
 stack: content/stack/Writing.md
 images:
