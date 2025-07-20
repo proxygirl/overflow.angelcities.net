@@ -1,5 +1,5 @@
 ---
-title: Three (18+ sexual content)
+title: Sex with Lake
 date: 2025-05-25T07:00:00.000Z
 stack: content/stack/Writing.md
 images:
