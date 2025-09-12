@@ -7,3 +7,4 @@ images:
     title: bleary window trees
 ---
 
+yup thats the view
