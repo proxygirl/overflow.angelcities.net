@@ -4,4 +4,4 @@ symbol: ◙
 background: '#8EED41'
 ---
 
-Sometimes I take a good standalone photo so here's a place for those
+Random pic dumping!! Currently taking lots of nature photos for reference
