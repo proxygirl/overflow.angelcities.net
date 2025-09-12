@@ -18,16 +18,14 @@ currently:
 blocks:
   - title: "Welcome to my home on the internet \U0001F9F8"
     content: >
-      I fear this blog reveals that I think ridiculous things are art. And that
-      I am too genuinely interested in things that are childish. And the
-      combination of that with mature content and themes might be just as
-      uncomfortable to a viewer as it is to me lol. But this site is a proper
-      dump blog for anything that remotely qualifies as art and as made by me,
-      as we at one point thought the internet should be. Around 2017 I genuinely
-      thought my internet avi had control over my life and that I'd die if my
-      Twitter got deleted, fully y2k style. I'm not particularly scared of that
-      anymore, though, so I'm feeding her lots of photos and art so that she
-      grows big and strong.
+      Around 2017 I genuinely thought my internet avi had control over my life
+      and that I'd die if my Twitter got deleted, fully y2k style. I'm not
+      particularly scared of that anymore, though, so I'm feeding her lots of
+      photos and art so that she grows big and strong.\
+
+      I'm almost 30 now but I'm still learning how to do everything... This site
+      holds lots of unfinished projects and half-ideas. But it's all just
+      practice! 
 
 
       \#childrensbookillustration #catalogue #pastoral #farmland #scenery
