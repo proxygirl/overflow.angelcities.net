@@ -1,5 +1,5 @@
 ---
-title: Multiple things growing at once
+title: All of it
 date: 2025-09-01T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
