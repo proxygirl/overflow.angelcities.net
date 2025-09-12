@@ -1,5 +1,5 @@
 ---
-welcome: "Hi my name is Chloe and I post things I make \U0001F9F6 \\\nand photos sometimes too\n\nthey/she\\\nin the midwest\\\nand the middle of France\n\nSite last updated:\n\n**23 June, 2025**\n"
+welcome: "Hi my name is Chloe and I post things I make \U0001F9F6 \\\nand photos sometimes too\n\n'\\* click on post to expand and view all content \\*'\n\nthey/she\\\nin the midwest\\\nand the middle of France\n\nSite last updated:\n\n**12 September, 2025**\n"
 motd: 'all dogs go to heaven '
 badges:
   - /uploads/88x31/gc_enchantedforest.gif
