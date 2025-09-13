@@ -3,6 +3,8 @@ title: 'I, Spring'
 date: 2025-09-10T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
+  - image: /uploads/IMG_20250911_085654004_HDR.jpg
+    title: spring 8
   - image: /uploads/IMG_20250911_085632991.jpg
     title: spring7
   - image: /uploads/IMG_20250911_084932231.jpg
