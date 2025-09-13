@@ -3,6 +3,7 @@ title: 'I, Spring'
 date: 2025-09-10T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
+  - title: spring5
   - image: /uploads/IMG_20250911_084923215.jpg
     title: spring4
   - image: /uploads/IMG_20250911_084835384.jpg
