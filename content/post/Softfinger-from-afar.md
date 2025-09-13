@@ -3,6 +3,8 @@ title: Softfinger from afar
 date: 2025-09-04T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
+  - image: /uploads/IMG_20250904_082454724.jpg
+    title: softevfar2
   - image: /uploads/IMG_20250904_082501594.jpg
     title: softevfar1
 ---
