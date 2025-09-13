@@ -3,6 +3,8 @@ title: 'I, Spring'
 date: 2025-09-10T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
+  - image: /uploads/IMG_20250911_085632991.jpg
+    title: spring7
   - image: /uploads/IMG_20250911_084932231.jpg
     title: spring5
   - image: /uploads/IMG_20250911_084923215.jpg
@@ -14,4 +16,5 @@ images:
 ---
 
 little yellow candles in the trees for the celebration, \
-and cones abound!
+and cones abound!\
+growth for all
