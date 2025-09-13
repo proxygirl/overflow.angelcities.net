@@ -1,6 +1,6 @@
 ---
 title: What if
-date: 2025-09-12T07:00:00.000Z
+date: 2025-09-04T07:00:00.000Z
 stack: content/stack/Pics.md
 images:
   - image: /uploads/IMG_20250904_082709280.jpg
