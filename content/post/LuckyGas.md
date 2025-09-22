@@ -29,4 +29,4 @@ images:
     title: GasPump
 ---
 
-Lucky Gas, get one joker free with purchase of a large soft drink, for limited time only (another unfinished mod lol)
+Lucky Gas, get one joker free with purchase of a large soft drink, for limited time only 
