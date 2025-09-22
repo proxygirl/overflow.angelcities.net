@@ -3,6 +3,8 @@ title: LuckyGas
 date: 2025-09-22T07:00:00.000Z
 stack: content/stack/Pixelart.md
 images:
+  - image: /uploads/jokas/weidjkr.jpg
+    title: Weid
   - image: /uploads/jokas/starmixjoker.jpeg
     title: Starmix
   - image: /uploads/jokas/smileuroncam.jpg
