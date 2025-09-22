@@ -3,6 +3,8 @@ title: LuckyGas
 date: 2025-09-22T07:00:00.000Z
 stack: content/stack/Pixelart.md
 images:
+  - image: /uploads/jokas/signjoker.jpeg
+    title: Nightsign
   - image: /uploads/jokas/remyscene.jpg
     title: 'Clerk,Remyref'
   - image: /uploads/jokas/icebox.jpg
