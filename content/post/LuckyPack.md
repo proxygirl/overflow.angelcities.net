@@ -3,6 +3,8 @@ title: LuckyPack
 date: 2025-09-22T07:00:00.000Z
 stack: content/stack/Pixelart.md
 images:
+  - image: '/uploads/jokas/multmadness].jpg'
+    title: MultiplierMadness
   - image: /uploads/jokas/luckyscrtch.jpg
     title: LuckyScratch
   - image: /uploads/jokas/lucky7s.jpg
