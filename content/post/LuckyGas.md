@@ -3,6 +3,8 @@ title: LuckyGas
 date: 2025-09-22T07:00:00.000Z
 stack: content/stack/Pixelart.md
 images:
+  - image: /uploads/jokas/gasjkr.jpg
+    title: PumpSpill
   - image: /uploads/jokas/airpump.jpg
     title: AirPump
   - image: /uploads/jokas/gaspump.jpg
