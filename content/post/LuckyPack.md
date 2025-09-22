@@ -3,6 +3,8 @@ title: LuckyPack
 date: 2025-09-22T07:00:00.000Z
 stack: content/stack/Pixelart.md
 images:
+  - image: /uploads/jokas/lucky7s.jpg
+    title: SuperSevens
   - image: /uploads/jokas/inthegrn.jpg
     title: InTheGreen
   - image: /uploads/jokas/dblrainbow.jpg
