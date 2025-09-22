@@ -3,6 +3,8 @@ title: LuckyGas
 date: 2025-09-22T07:00:00.000Z
 stack: content/stack/Pixelart.md
 images:
+  - image: /uploads/jokas/Screenshot 2025-09-22 144557.png
+    title: Coverimg
   - image: /uploads/jokas/signjoker.jpeg
     title: Nightsign
   - image: /uploads/jokas/weidjkr.jpg
