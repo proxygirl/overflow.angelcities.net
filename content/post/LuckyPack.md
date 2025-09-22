@@ -25,4 +25,4 @@ images:
     title: HatsOff
 ---
 
-a half-finished project but sharing nonetheless, some Balatro cards, lottery tickets, win big jokers!!
+Win Big Jokers! (an unfinished balatro mod)
