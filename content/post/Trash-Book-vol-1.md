@@ -6,7 +6,7 @@ images:
   - image: /uploads/trash vol1/17.png
     title: '17'
   - image: /uploads/trash vol1/16.png
-    title: '15'
+    title: '16'
   - image: /uploads/trash vol1/14.png
     title: '14'
   - image: /uploads/trash vol1/13.png
