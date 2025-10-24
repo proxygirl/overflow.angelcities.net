@@ -77,7 +77,7 @@ images:
     title: '36'
   - image: /uploads/trash vol1/37.png
     title: '37'
-  - image: /uploads/trash vol1/39.png
+  - image: /uploads/trash vol1/38.png
     title: '38'
   - image: /uploads/trash vol1/39.png
     title: '39'
