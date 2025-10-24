@@ -5,7 +5,7 @@ stack: content/stack/PapierCollage.md
 images:
   - image: /uploads/trash vol1/10.png
     title: '10'
-  - image: /uploads/trash vol1/10.png
+  - image: /uploads/trash vol1/9.png
     title: '9'
   - image: /uploads/trash vol1/8.png
     title: '8'
