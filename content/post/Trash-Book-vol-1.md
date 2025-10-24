@@ -3,12 +3,14 @@ title: Trash Book vol. 1
 date: 2025-10-24T07:00:00.000Z
 stack: content/stack/PapierCollage.md
 images:
-  - image: /uploads/trash vol1/15.png
-    title: '15'
+  - image: /uploads/trash vol1/18.png
+    title: '18'
   - image: /uploads/trash vol1/17.png
     title: '17'
   - image: /uploads/trash vol1/16.png
     title: '16'
+  - image: /uploads/trash vol1/15.png
+    title: '15'
   - image: /uploads/trash vol1/14.png
     title: '14'
   - image: /uploads/trash vol1/13.png
