@@ -4,6 +4,8 @@ date: 2025-10-24T07:00:00.000Z
 stack: content/stack/PapierCollage.md
 images:
   - image: /uploads/trash vol1/39.png
+    title: '39'
+  - image: /uploads/trash vol1/39.png
     title: '38'
   - image: /uploads/trash vol1/37.png
     title: '37'
