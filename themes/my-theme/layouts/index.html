@@ -30,7 +30,8 @@
             </a>
           </h1>
           <div class="post-description">
-            {{ .Summary | truncate "100" }}
+            {{ .Summary | truncate "100" }} 
+            <br /><a href=" {{.RelPermalink}}">read more.</a>
           </div>
         </div>
       </article>  

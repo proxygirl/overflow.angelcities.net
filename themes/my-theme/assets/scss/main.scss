@@ -25,6 +25,14 @@ body {
     padding-block: 2em;
 }
 
+a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 .wrapper {
     @include flex(column);
     gap: 1em;

@@ -19,8 +19,16 @@
                 </a>
             {{ end }}
         {{ end }}
-        {{ $leftover := sub 32 $count}}
-        {{ range $i :=  (seq $leftover) }}
+
+        {{ $leftover := 0 }}
+
+        {{ if le $count 32 }}
+          {{ $leftover = sub 32 $count}}        
+        {{ else }}
+          {{ $leftover = sub 8 (mod $count 8 ) }}
+        {{ end }}
+        
+        {{ range $i := (seq $leftover) }}
             <div>
                 <div class="empty"></div>
             </div>
@@ -37,6 +45,7 @@
     {{ $stack := .Title }}
     {{ range (where .Site.RegularPages "Section" "post") }}
         {{ if in .Params.stack $stack }}
+            {{ $postURL := .RelPermalink }}
             <article class="post">
                 <span class="post-date">{{ .Date.Local.Format "1/02/2006"}}</span>
                 <h1 class="post-title" id='{{ replace (lower .Title) " " "-"}}'>
@@ -49,13 +58,11 @@
                     {{ $alt := .alt_text}}
                     {{ $title := .title}}
                     {{ $img := .image}}
-                    <!-- {{ with (resources.Get $img) }} -->
-                    <a class="post-image" href="{{ .RelPermalink }}">
-                            {{ with .Resize "x500 webp" }}
-                            <img src='{{ .RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />
-                            {{ end }}
+                    {{ with (resources.Get $img).Resize "x500 webp" }}
+                    <a class="post-image" href="{{ $postURL }}">
+                      <img src='{{ .RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />  
                     </a>
-                    <!-- {{ end }} -->
+                    {{ end }}
                     {{ end }}
                 </div>
             </article>
