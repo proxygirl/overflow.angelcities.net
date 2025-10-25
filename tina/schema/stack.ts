@@ -9,6 +9,7 @@ export const stack: Collection = {
             type: "string",
             name: "title",
             label: "Title",
+            description: "hi chloe, just an fyi, if you change the title of a stack it messes things up. so, in the future if you want to change the name of one you might have to just make a new one, sorry about that. miss you. -hilah",
             isTitle: true,
             required: true,
           },

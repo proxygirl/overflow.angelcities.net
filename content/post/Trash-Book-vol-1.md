@@ -1,7 +1,7 @@
 ---
 title: Trash Book vol. 1
 date: 2025-10-24T07:00:00.000Z
-stack: content/stack/PapierCollage.md
+stack: content/stack/Glue.md
 images:
   - image: /uploads/trash vol1/1.png
     title: '1'

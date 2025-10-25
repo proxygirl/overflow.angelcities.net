@@ -1,7 +1,7 @@
 ---
 title: Opulent Garden
 date: 2023-05-15T07:00:00.000Z
-stack: content/stack/PapierCollage.md
+stack: content/stack/Glue.md
 images:
   - image: /uploads/Collage/IMG_20230609_190414936.jpg
     title: collage on black

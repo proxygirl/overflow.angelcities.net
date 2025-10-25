@@ -1,7 +1,7 @@
 ---
 title: An Addition to the Teenage Borrower's Room
 date: 2023-05-10T07:00:00.000Z
-stack: content/stack/PapierCollage.md
+stack: content/stack/Glue.md
 images:
   - image: /uploads/Collage/IMG_20230609_190204052~2.jpg
     title: collage on black

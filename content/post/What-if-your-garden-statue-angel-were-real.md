@@ -1,7 +1,7 @@
 ---
 title: What if your garden statue angel were real
 date: 2022-07-21T07:00:00.000Z
-stack: content/stack/PapierCollage.md
+stack: content/stack/Glue.md
 images:
   - image: /uploads/Collage/IMG_20230609_185637070.jpg
     title: collage on black

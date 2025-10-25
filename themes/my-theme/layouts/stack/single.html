@@ -45,17 +45,17 @@
                     </a>
                 </h1>
                 <div class="post-media">
-                    {{ range .Params.images }}
+                  {{ with index .Params.images 0}}
                     {{ $alt := .alt_text}}
                     {{ $title := .title}}
                     {{ $img := .image}}
-                    {{ with (resources.Get $img) }}
+                    <!-- {{ with (resources.Get $img) }} -->
                     <a class="post-image" href="{{ .RelPermalink }}">
                             {{ with .Resize "x500 webp" }}
                             <img src='{{ .RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />
                             {{ end }}
                     </a>
-                    {{ end }}
+                    <!-- {{ end }} -->
                     {{ end }}
                 </div>
             </article>
