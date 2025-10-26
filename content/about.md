@@ -4,8 +4,8 @@ title: About
 avatar: /uploads/photos/IMG_20230315_175107458.jpg
 currently:
   reading:
-    title: Blind Spot
-    author: Teju Cole
+    title: Gathering Moss
+    author: Robin Wall Kimmerer
     symbol: "\U0001F4D6"
   listening:
     title: Tybalt 60
@@ -25,7 +25,7 @@ blocks:
 
       I'm almost 30 now but I'm still learning how to do everything... This site
       holds lots of unfinished projects and half-ideas. But it's all just
-      practice! 
+      practice!
 
 
       \#childrensbookillustration #catalogue #pastoral #farmland #scenery
