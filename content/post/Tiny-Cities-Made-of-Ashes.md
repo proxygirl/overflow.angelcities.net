@@ -3,18 +3,18 @@ title: Tiny Cities Made of Ashes
 date: 2025-11-27T23:00:00.000Z
 stack: content/stack/Glue.md
 images:
-  - image: /uploads/cities7.jpg
-    title: bubble1
-  - image: /uploads/chloe8.jpg
-    title: grass1
+  - image: /uploads/cities1.jpg
+    title: striped1
+  - image: /uploads/cities2.jpg
+    title: double1
   - image: /uploads/cities6 (1).jpg
     title: big1
   - image: /uploads/cities5.jpg
     title: tall1
-  - image: /uploads/cities2.jpg
-    title: double1
-  - image: /uploads/cities1.jpg
-    title: striped1
+  - image: /uploads/cities7.jpg
+    title: bubble1
+  - image: /uploads/chloe8.jpg
+    title: grass1
 ---
 
 Tiny cities made of ashes (and other materials)
