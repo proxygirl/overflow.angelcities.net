@@ -3,6 +3,8 @@ title: Tiny Cities Made of Ashes
 date: 2025-11-27T23:00:00.000Z
 stack: content/stack/Glue.md
 images:
+  - image: /uploads/chloe8.jpg
+    title: grass1
   - image: /uploads/cities6 (1).jpg
     title: big1
   - image: /uploads/cities5.jpg
