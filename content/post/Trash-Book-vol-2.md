@@ -3,6 +3,8 @@ title: Trash Book vol 2
 date: 2025-12-10T23:00:00.000Z
 stack: content/stack/Glue.md
 images:
+  - image: /uploads/tb 2 cut 21.png
+    title: p21
   - image: /uploads/tb 2 cut 20.png
     title: p20
   - image: /uploads/tb 2 cut 19.png
