@@ -1,5 +1,5 @@
 ---
-title: Writing
+title: Journal
 symbol: ♫
 color: '#88CAFE'
 ---
