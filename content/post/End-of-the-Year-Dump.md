@@ -4,7 +4,7 @@ date: 2025-12-10T23:00:00.000Z
 stack: content/stack/DigiCollage.md
 images:
   - image: /uploads/Picsart_25-10-02_23-34-07-096.jpg
-    title: no5
+    title: no3
   - image: /uploads/Picsart_25-10-02_23-31-41-571.jpg
     title: no2
   - image: /uploads/Picsart_25-10-02_23-30-37-466.jpg
