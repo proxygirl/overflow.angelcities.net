@@ -3,6 +3,8 @@ title: End of the Year Dump
 date: 2025-12-10T23:00:00.000Z
 stack: content/stack/DigiCollage.md
 images:
+  - image: /uploads/Picsart_25-10-02_23-35-48-448.jpg
+    title: no4
   - image: /uploads/Picsart_25-10-02_23-34-07-096.jpg
     title: no3
   - image: /uploads/Picsart_25-10-02_23-31-41-571.jpg
