@@ -1,7 +1,9 @@
 {{ define "aside" }}
-<article class="post-content">
-    {{ $post_type := .Site.GetPage (replace .Params.stack "content/" "") }}
+
+<article class="post-content {{ cond (gt (.Content |len) 600) "post-long" "" }}">
+    
     <div class="post-meta">
+      {{ $post_type := .Site.GetPage (replace .Params.stack "content/" "") }}
       <a class="post-type" style="background-color: {{ $post_type.Params.background }}; color: {{ $post_type.Params.color }};" href="{{ $post_type.RelPermalink }}">
         {{ $post_type.Params.symbol }} {{ $post_type.Title | lower }}
       </a>  
@@ -21,15 +23,21 @@
 
 {{ define "main" }}
 
-  <div class="post-media">
+  <div class="post-media {{ cond (gt (.Content |len) 600) "post-long" "" }}">
     {{ range .Params.images }}
       {{ $alt := .alt_text}}
       {{ $title := .title}}
       {{ $img := .image}}
+
+      {{ $filters := slice
+        images.AutoOrient
+        (images.Process "resize 500x webp")
+      }}
+
         {{ with (resources.Get $img) }}
           <article class="post-image">
             <a  href="{{ .RelPermalink }}">
-              {{ with .Resize "x500 webp" }}
+              {{ with images.Filter $filters . }}
               <img src='{{ .RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />
               {{ end }}
             </a>

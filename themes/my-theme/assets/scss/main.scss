@@ -53,6 +53,15 @@ a {
     gap: 1.5em;
 }
 
+.content:has(.post-long) {
+  main {
+    flex: 1 300px;
+  }
+  aside {
+    flex: 3 450px;
+  }
+}
+
 main { flex: 3 400px; }
 
 aside { flex: 1 275px; }
