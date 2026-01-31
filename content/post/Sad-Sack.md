@@ -1,7 +1,7 @@
 ---
 title: sad sack
 date: 2025-05-01T07:00:00.000Z
-stack: content/stack/Writing.md
+stack: content/stack/Journal.md
 images:
   - image: /uploads/sadsack.jpg
 ---

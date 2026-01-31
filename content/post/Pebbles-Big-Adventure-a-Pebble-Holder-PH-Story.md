@@ -1,7 +1,7 @@
 ---
 title: 'Pebble''s Big Adventure, a Pebble Holder PH Story'
 date: 2026-01-11T23:00:00.000Z
-stack: content/stack/Writing.md
+stack: content/stack/Journal.md
 images:
   - image: /uploads/IMG_20140708_160714.jpg
     title: pebble holder ph

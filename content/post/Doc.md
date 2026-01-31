@@ -1,7 +1,7 @@
 ---
 title: Doc
 date: 2025-09-28T07:00:00.000Z
-stack: content/stack/Writing.md
+stack: content/stack/Journal.md
 images:
   - image: /uploads/lab2.jpg
     title: morninglab
