@@ -1,7 +1,7 @@
 ---
 background:
   background_image: /uploads/lbrryjpeg_tiny.jpeg
-  background_size: 1701
+  background_size: 1700
   background_color: ''
 logo:
   logo_image: /uploads/logos/coupon-logo-sm.png
