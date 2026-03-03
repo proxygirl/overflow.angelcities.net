@@ -1,6 +1,6 @@
 ---
 background:
-  background_image: /uploads/backgrounds/IMG_20240713_190304428.jpg
+  background_image: /uploads/lbrryjpeg.jpeg
   background_size: 1700
   background_color: ''
 logo:
