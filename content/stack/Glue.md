@@ -4,7 +4,9 @@ symbol: ✬
 background: '#FFF2EA'
 ---
 
-Literal physical collages! 
+Physical collagesssssssss\
+made with real glue and stuff\
+also putting most physical art here :p
 
 Notable sources and references--
 
