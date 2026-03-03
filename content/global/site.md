@@ -1,5 +1,17 @@
 ---
-welcome: "Hi my name is Chloe and I post things I make \U0001F608\n\n'\\* click on post to expand and view all content \\*'\n\nthey/she\\\nin the midwest\\\nand the middle of France\n\nSite last updated:\n\n**30 November, 2025**\n"
+welcome: |
+  i make trash art \
+  site occasionally organized
+
+  '\* click on post to expand and view all content \*'
+
+  they/she\
+  in the midwest\
+  and the middle of France
+
+  Site last updated:
+
+  **3 March, 2026**
 motd: 'all dogs go to heaven '
 badges:
   - /uploads/88x31/gc_enchantedforest.gif
