@@ -23,10 +23,9 @@ blocks:
       n whatever youve got in your pockets\
       recently been working on card decks because I have a lot of card-shaped trash, but we still always love a good digital collage. Maybe eventually comics, stories, etc.\
       lots of love\
-      chloe\
+      chloe \<3
 
-
-      \#childrensbookillustration #catalogue #pastoral #farmland #scenery #estatesale #art #publicdomain #literalpublicdoman #publicspaces #fruitstickers #trains #ships #NOTairplanes #y2k #comics #angels #liminal #suburbs #applebees #wafflehouse #dollargeneral #DG #buspass #marlborored40s #andcamelcrushes #sheep #dogs #cats #hugs #prayers #swag #redshoes #80s #gay80s #casettetapes #bball #basketball #quilting #embroidery #urbanexploring #railpass #minecraft #coffee #apero #geocities #ascii #indiegames #runescape #wow #worldofwarcraft #diablo #diabloII #mmorpg #runeword #mythic #biblical #meta #symbol #egg #addiction #therapy #college #university #academic #stem #doctorwho #yogurt #snack #mending #sewing #books #lol #k 
+      \#childrensbookillustration #catalogue #pastoral #farmland #scenery #estatesale #art #publicdomain #literalpublicdoman #publicspaces #fruitstickers #trains #ships #NOTairplanes #y2k #comics #angels #liminal #suburbs #applebees #wafflehouse #dollargeneral #DG #buspass #marlborored40s #andcamelcrushes #sheep #dogs #cats #hugs #prayers #swag #redshoes #80s #gay80s #casettetapes #bball #basketball #quilting #embroidery #urbanexploring #railpass #minecraft #coffee #apero #geocities #ascii #indiegames #runescape #wow #worldofwarcraft #diablo #diabloII #mmorpg #runeword #mythic #biblical #meta #symbol #egg #addiction #therapy #college #university #academic #stem #doctorwho #yogurt #snack #mending #sewing #books #lol #k
   - title: Good Things to Read--
     content: "### recs from me 2 you\n\nof alltime, personally:\n\n► Desperaux, Kate DiCamillo\n\n► Loser, Jerry Spinelli\n\n► Monsieur Venus, Rachilde\n\n► The Beautiful Things That Heaven Bears, Dinaw Mengestu\n\n► The Ecstasy of Communication, Jean Baudrillard\n\n► Blind Spot, Teju Cole\n\n► The Young and the Evil, Charles Henri Ford\n\nelse: [https://www.goodreads.com/user/show/177067271-chloe](https://www.goodreads.com/user/show/177067271-chloe)\n\nRecommend something for me to read? \U0001F48C [cliphboard@gmail.com](mailto:cliphboard@gmail.com)\n"
   - title: Nice Places to Go--
