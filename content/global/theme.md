@@ -1,6 +1,6 @@
 ---
 background:
-  background_image: /uploads/lbrryjpeg_tiny.jpeg
+  background_image: /uploads/bkgrnd9spritetiny.jpeg
   background_size: 1700
   background_color: ''
 logo:
