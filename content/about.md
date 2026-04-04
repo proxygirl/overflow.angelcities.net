@@ -40,7 +40,7 @@ blocks:
 
       ## Art:
 
-      Photos, collecting, music: [Hilah](https://hilah.angelcities.net)
+      Illustration, printing, poetry: [hordeuxse.fr](https://hordeuxse.notion.site/Hordeuxse-tattoo-illustration-po-sie-3379c152f70b80148e44d05bac7283cd "hordeuxse.fr")
 
       Illustrations with sources: [Enchanted Booklet](https://www.instagram.com/enchantedbooklet/?hl=en "Enchanted Booklet")
 
