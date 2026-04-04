@@ -1,6 +1,6 @@
 ---
 background:
-  background_image: /uploads/bkgrnd9spritetiny.jpeg
+  background_image: /uploads/gastation4siteb&w.jpg
   background_size: 1700
   background_color: ''
 logo:
