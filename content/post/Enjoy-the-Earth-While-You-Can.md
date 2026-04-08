@@ -33,4 +33,4 @@ images:
     title: amtrakview
 ---
 
-more pics from the Southwest Chief (Amtrak) and other assorted public transportation from Northern California to Kansas. I would recommend nothing more highly than a long trip on the train-- to anyone. Especially if you are ever lonely! And other assorted pictures from this summer so far. Still a bit left to go, but so far it's been an unpleasant period of growth that I am not much enjoying on the whole. But these pics show off very pretty days that we can't forget about :)
+more pics from the Southwest Chief (Amtrak) and other assorted public transportation from Northern California to Kansas. If u need community just trap yourself on a train with a bunch of random people for 27 hours. It's better than getting a job ;)
