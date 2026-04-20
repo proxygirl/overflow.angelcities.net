@@ -42,6 +42,12 @@
                 }
             }
         }
+
+        &-media-grid {
+          img {
+            border: 1px dotted;
+          }
+        }
     }
 
     .stack-title {

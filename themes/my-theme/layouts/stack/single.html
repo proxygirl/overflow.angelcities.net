@@ -73,6 +73,36 @@
                     {{ end }}
                     {{ end }}
                 </div>
+                 
+                {{ if gt (len .Params.images) 1  }}
+                <div class="post-media-grid">
+
+                  {{ range $index, $element := .Params.images }}
+
+                  {{ if gt $index 0 }}
+
+                  {{ $alt := .alt_text}}
+                  {{ $title := .title}}
+                  {{ $img := .image}}
+            
+                  {{ $filters := slice
+                    images.AutoOrient
+                    (images.Process "resize 50x crop 50x50 webp")
+                  }}
+            
+                    {{ with (resources.Get $img) }}
+                        <a href="{{ $postURL }}">
+                          {{ with images.Filter $filters . }}
+                          <img src='{{ .RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />
+                          {{ end }}
+                        </a>
+                    {{ end }}
+                  {{ end }}
+
+                  {{ end }}
+                </div>   
+                {{ end }}             
+
             </article>
         {{ end }}
     {{ end }}

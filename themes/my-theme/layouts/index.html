@@ -1,6 +1,8 @@
 {{ define "main" }}
     {{ range (where .Site.RegularPages "Section" "post") }}
       <article class="post">
+
+        
         <div class="post-media">
           <div class="media-roll">
             {{ with index .Params.images 0}}
@@ -24,6 +26,7 @@
             {{ end }}
         </div>
         </div>
+
         <div class="post-content">
           <div class="post-meta">
             {{ $post_type := .Site.GetPage (replace .Params.stack "content/" "") }}
