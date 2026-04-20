@@ -74,6 +74,7 @@
                     {{ end }}
                 </div>
                  
+                {{ if .Params.images }}
                 {{ if gt (len .Params.images) 1  }}
                 <div class="post-media-grid">
 
@@ -101,7 +102,8 @@
 
                   {{ end }}
                 </div>   
-                {{ end }}             
+                {{ end }}  
+                {{ end }}           
 
             </article>
         {{ end }}
