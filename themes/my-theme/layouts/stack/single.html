@@ -80,7 +80,7 @@
 
                   {{ range $index, $element := .Params.images }}
 
-                  {{ if gt $index 0 }}
+                  {{ if and (gt $index 0) (lt $index 6) }}
 
                   {{ $alt := .alt_text}}
                   {{ $title := .title}}
@@ -101,6 +101,9 @@
                   {{ end }}
 
                   {{ end }}
+                  <a href="{{ $postURL }}">
+                    <span>+</span>
+                  </a>
                 </div>   
                 {{ end }}  
                 {{ end }}           
