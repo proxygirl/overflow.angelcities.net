@@ -80,30 +80,36 @@
 
                   {{ range $index, $element := .Params.images }}
 
-                  {{ if and (gt $index 0) (lt $index 6) }}
+                    {{ if and (gt $index 0) (lt $index 6) }}
 
-                  {{ $alt := .alt_text}}
-                  {{ $title := .title}}
-                  {{ $img := .image}}
-            
-                  {{ $filters := slice
-                    images.AutoOrient
-                    (images.Process "resize 50x crop 50x50 webp")
-                  }}
-            
-                    {{ with (resources.Get $img) }}
+                      {{ $alt := .alt_text}}
+                      {{ $title := .title}}
+                      {{ $img := .image}}
+
+                      {{ $filters := slice
+                      images.AutoOrient
+                      (images.Process "resize 50x crop 50x50 webp")
+                      }}
+
+                      {{ with (resources.Get $img) }}
                         <a href="{{ $postURL }}">
-                          {{ with images.Filter $filters . }}
-                          <img src='{{ .RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />
-                          {{ end }}
-                        </a>
+                        {{ with images.Filter $filters . }}
+                        <img src='{{ .RelPermalink }}' title="{{ $title }}" alt="{{ $alt }}" loading="lazy" />
+                      {{ end }}
+
+                      </a>
+
+                      {{ end }}
                     {{ end }}
-                  {{ end }}
 
                   {{ end }}
+
+                  {{ if gt (len .Params.images) 6 }}
                   <a href="{{ $postURL }}">
-                    <span>+</span>
+                  <span>+</span>
                   </a>
+                  {{ end }}
+
                 </div>   
                 {{ end }}  
                 {{ end }}           
